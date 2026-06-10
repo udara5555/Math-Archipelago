@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\Games\\unity\\Math Archipelago\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A5C0960-02D4-0300-9E3F-A6987F17DB9F}|Assembly-CSharp.csproj|d:\\games\\unity\\math archipelago\\assets\\scripts\\arithmeticgameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A5C0960-02D4-0300-9E3F-A6987F17DB9F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\arithmeticgameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8A5C0960-02D4-0300-9E3F-A6987F17DB9F}|Assembly-CSharp.csproj|d:\\games\\unity\\math archipelago\\assets\\scripts\\scenenavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A5C0960-02D4-0300-9E3F-A6987F17DB9F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenenavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,19 +19,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ArithmeticGameplay.cs",
-              "DocumentMoniker": "D:\\Games\\unity\\Math Archipelago\\Assets\\Scripts\\ArithmeticGameplay.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ArithmeticGameplay.cs",
-              "ToolTip": "D:\\Games\\unity\\Math Archipelago\\Assets\\Scripts\\ArithmeticGameplay.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ArithmeticGameplay.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAUwFcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T13:34:40.155Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "SceneNavigation.cs",
               "DocumentMoniker": "D:\\Games\\unity\\Math Archipelago\\Assets\\Scripts\\SceneNavigation.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SceneNavigation.cs",
