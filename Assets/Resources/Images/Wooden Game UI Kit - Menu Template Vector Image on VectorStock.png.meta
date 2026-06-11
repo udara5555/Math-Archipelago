@@ -1,0 +1,1262 @@
+fileFormatVersion: 2
+guid: 220c4301e9f1fb144a20e59a3ca3ee1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1970293695523334640
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_0
+  - first:
+      213: 8306227038797253934
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_1
+  - first:
+      213: -8707464165601731284
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_2
+  - first:
+      213: -5405377902437785534
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_3
+  - first:
+      213: 5523339281878054377
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_4
+  - first:
+      213: 4872806354398581458
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_5
+  - first:
+      213: -9163144948133547123
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_6
+  - first:
+      213: -3427668781639184542
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_7
+  - first:
+      213: -4029698446255835748
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_8
+  - first:
+      213: -3516205185002234946
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_9
+  - first:
+      213: -7896164972518274618
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_10
+  - first:
+      213: -7408115412237625108
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_11
+  - first:
+      213: -6770429524283089820
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_12
+  - first:
+      213: -3410301470263625824
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_13
+  - first:
+      213: -1447822917660903799
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_14
+  - first:
+      213: 1476431557600373073
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_15
+  - first:
+      213: 1139007344263846336
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_16
+  - first:
+      213: -7867596787333101421
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_17
+  - first:
+      213: 6618850529958098316
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_18
+  - first:
+      213: -3617004496370261710
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_19
+  - first:
+      213: 693304154220620757
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_20
+  - first:
+      213: 7465674834481022509
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_21
+  - first:
+      213: -5209252613323624909
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_22
+  - first:
+      213: -9135379961972461638
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_23
+  - first:
+      213: 4584688013443619686
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_24
+  - first:
+      213: 4759746403962906374
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_25
+  - first:
+      213: 7391874650877128660
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_26
+  - first:
+      213: 3735788041862098398
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_27
+  - first:
+      213: 7814300499700153611
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_28
+  - first:
+      213: -3599068453386034067
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_29
+  - first:
+      213: -2616967344841748526
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_30
+  - first:
+      213: -7321063727493514648
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_31
+  - first:
+      213: -8255573370645493399
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_32
+  - first:
+      213: -5919221743481533641
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_33
+  - first:
+      213: -2092412968440551702
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_34
+  - first:
+      213: -2313053310923567442
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_35
+  - first:
+      213: -6434122351073085785
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_36
+  - first:
+      213: -4739415132357684655
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_37
+  - first:
+      213: -1803390952697468756
+    second: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 329
+        width: 297
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f92cd05da3e75b10800000000000000
+      internalID: 1970293695523334640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_1
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 477
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d4147cb75a54370800000000000000
+      internalID: 8306227038797253934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_2
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 479
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d9ddab97fd82780800000000000000
+      internalID: -8707464165601731284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_3
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 477
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2402378cf6d3cf4b0800000000000000
+      internalID: -5405377902437785534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 477
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e57d4e10d7d6ac40800000000000000
+      internalID: 5523339281878054377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_5
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 477
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d29135ef8faf9340800000000000000
+      internalID: 4872806354398581458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_6
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 477
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83b515d738f5d080800000000000000
+      internalID: -9163144948133547123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_7
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 405
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f43b657697e60d0800000000000000
+      internalID: -3427668781639184542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_8
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 405
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c953af60d92a318c0800000000000000
+      internalID: -4029698446255835748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_9
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 405
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb1e8e830ee33fc0800000000000000
+      internalID: -3516205185002234946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_10
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 405
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c98a2d0bcf2b6290800000000000000
+      internalID: -7896164972518274618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_11
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 405
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8da7e4846113990800000000000000
+      internalID: -7408115412237625108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_12
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 405
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c1a4c083a9a02a0800000000000000
+      internalID: -6770429524283089820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_13
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 333
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7b1ff91ec2ca0d0800000000000000
+      internalID: -3410301470263625824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_14
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 333
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986f62f2abc48ebe0800000000000000
+      internalID: -1447822917660903799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_15
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 333
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15962fddda65d7410800000000000000
+      internalID: 1476431557600373073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_16
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 333
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9586715219ecf00800000000000000
+      internalID: 1139007344263846336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_17
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 333
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398810ff76ea0d290800000000000000
+      internalID: -7867596787333101421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_18
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 333
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85fe832d71eadb50800000000000000
+      internalID: 6618850529958098316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_19
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 107
+        width: 277
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2312cd20391ddcdc0800000000000000
+      internalID: -3617004496370261710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_20
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 291
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db6f99747c1f9900800000000000000
+      internalID: 693304154220620757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_21
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 249
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2680d505b76b9760800000000000000
+      internalID: 7465674834481022509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_22
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 249
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ee195195405b7b0800000000000000
+      internalID: -5209252613323624909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_23
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 249
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfe86e635c983180800000000000000
+      internalID: -9135379961972461638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_24
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 249
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b5c4f157510af30800000000000000
+      internalID: 4584688013443619686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_25
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 249
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607e62dd2240e0240800000000000000
+      internalID: 4759746403962906374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_26
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 249
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfeeb5c4d6359660800000000000000
+      internalID: 7391874650877128660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_27
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 177
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edda7575e6f28d330800000000000000
+      internalID: 3735788041862098398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_28
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 177
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0df8cc07e8f17c60800000000000000
+      internalID: 7814300499700153611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_29
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 177
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d646c917f4a8d0ec0800000000000000
+      internalID: -3599068453386034067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_30
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 177
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df09eda01aaeabd0800000000000000
+      internalID: -2616967344841748526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_31
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 177
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a70c8145b566a90800000000000000
+      internalID: -7321063727493514648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_32
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 177
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969408162cf4e6d80800000000000000
+      internalID: -8255573370645493399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_33
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 105
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bc3098f23badda0800000000000000
+      internalID: -5919221743481533641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_34
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 105
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae62ea4cd7146f2e0800000000000000
+      internalID: -2092412968440551702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_35
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 105
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae0cdfc44266efd0800000000000000
+      internalID: -2313053310923567442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_36
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 105
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a633e6afc765b6a0800000000000000
+      internalID: -6434122351073085785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_37
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 105
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15295b03c073a3eb0800000000000000
+      internalID: -4739415132357684655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_38
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 105
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca86059bb7119f6e0800000000000000
+      internalID: -1803390952697468756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_39
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 105
+        width: 277
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d6f432708417740bdd1ea18e87134c
+      internalID: 1875482659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_40
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 255
+        width: 277
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f95ec117a988a48b908c226d5865cf
+      internalID: -1898239909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_41
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 156
+        width: 277
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dde7eb18efddb42a93324a320bbed3
+      internalID: 940516288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Game UI Kit - Menu Template Vector Image on VectorStock_42
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 205
+        width: 277
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39477d4699879404a9afdacdccfe6593
+      internalID: 398287440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b46e822cc22c12b4594f358554741af2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_0: 1970293695523334640
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_1: 8306227038797253934
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_10: -7896164972518274618
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_11: -7408115412237625108
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_12: -6770429524283089820
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_13: -3410301470263625824
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_14: -1447822917660903799
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_15: 1476431557600373073
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_16: 1139007344263846336
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_17: -7867596787333101421
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_18: 6618850529958098316
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_19: -3617004496370261710
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_2: -8707464165601731284
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_20: 693304154220620757
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_21: 7465674834481022509
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_22: -5209252613323624909
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_23: -9135379961972461638
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_24: 4584688013443619686
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_25: 4759746403962906374
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_26: 7391874650877128660
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_27: 3735788041862098398
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_28: 7814300499700153611
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_29: -3599068453386034067
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_3: -5405377902437785534
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_30: -2616967344841748526
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_31: -7321063727493514648
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_32: -8255573370645493399
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_33: -5919221743481533641
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_34: -2092412968440551702
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_35: -2313053310923567442
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_36: -6434122351073085785
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_37: -4739415132357684655
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_38: -1803390952697468756
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_39: 1875482659
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_4: 5523339281878054377
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_40: -1898239909
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_41: 940516288
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_42: 398287440
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_5: 4872806354398581458
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_6: -9163144948133547123
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_7: -3427668781639184542
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_8: -4029698446255835748
+      Wooden Game UI Kit - Menu Template Vector Image on VectorStock_9: -3516205185002234946
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
