@@ -14,6 +14,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Arithmatic.unity
     guid: cf965d4fac26359489b3bc1fd1b3973e
+  - enabled: 1
+    path: Assets/Scenes/Sets.unity
+    guid: 47afcf9b439af3841a582942e1f8bba0
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

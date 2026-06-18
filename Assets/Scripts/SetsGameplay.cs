@@ -26,6 +26,9 @@ public class SetsGameplay : MonoBehaviour
     [Tooltip("Text to show progress like '3/9 sorted'")]
     public TMP_Text scoreText;
 
+    [Tooltip("Button that appears after all animals are sorted")]
+    public GameObject nextLevelButton;
+
     [Header("Health")]
     public Image healthImage;
 
@@ -44,6 +47,10 @@ public class SetsGameplay : MonoBehaviour
         UpdateScoreText();
         ClearFeedback();
         SpawnAnimalCards();
+
+        // Hide next level button until all animals are sorted
+        if (nextLevelButton != null)
+            nextLevelButton.SetActive(false);
     }
 
     /// <summary>
@@ -106,7 +113,10 @@ public class SetsGameplay : MonoBehaviour
         {
             ShowFeedback("Level Complete!", Color.yellow);
             Debug.Log("Level 1 Complete! All animals sorted.");
-            // TODO: Transition to Level 2 (Union & Intersection)
+
+            // Show the next level button
+            if (nextLevelButton != null)
+                nextLevelButton.SetActive(true);
         }
     }
 

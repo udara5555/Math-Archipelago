@@ -67,9 +67,8 @@ public class DraggableAnimal : MonoBehaviour, IBeginDragHandler, IDragHandler, I
             {
                 if (zone.IsCorrectZone(animalCategory))
                 {
-                    // Correct! Snap to zone and disable further dragging
-                    transform.SetParent(zone.transform);
-                    rectTransform.anchoredPosition = Vector2.zero;
+                    // Correct! Let the zone handle placement inside the circle
+                    zone.PlaceAnimal(rectTransform);
                     canvasGroup.blocksRaycasts = false; // Don't interfere with future drops
 
                     // Notify the game manager
