@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
+using UnityEngine.UI;
 
 /// <summary>
 /// Attach to each drop zone circle.
@@ -8,6 +9,15 @@ using UnityEngine.EventSystems;
 /// </summary>
 public class DropZone : MonoBehaviour, IDropHandler
 {
+    void Start()
+    {
+        // Make the drop zone only respond to clicks/drops inside the visible circle,
+        // not the full rectangular bounds. Requires Read/Write enabled on the sprite.
+        Image img = GetComponent<Image>();
+        if (img != null)
+            img.alphaHitTestMinimumThreshold = 0.5f;
+    }
+
     [Header("Zone Settings")]
     [Tooltip("The category this zone accepts, e.g. Mammal, Bird, Fish")]
     public string zoneCategory;
