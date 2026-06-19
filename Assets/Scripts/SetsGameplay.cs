@@ -29,6 +29,13 @@ public class SetsGameplay : MonoBehaviour
     [Tooltip("Button that appears after all animals are sorted")]
     public GameObject nextLevelButton;
 
+    [Header("Level GameObjects")]
+    [Tooltip("The LevelOne parent GameObject")]
+    public GameObject levelOneObject;
+
+    [Tooltip("The LevelTwo parent GameObject")]
+    public GameObject levelTwoObject;
+
     [Header("Health")]
     public Image healthImage;
 
@@ -38,11 +45,16 @@ public class SetsGameplay : MonoBehaviour
     int correctCount;
     int wrongCount;
     int totalAnimals;
+    Sprite fullHealthSprite;  // Saved on Start to reset health between levels
 
     void Start()
     {
         correctCount = 0;
         wrongCount = 0;
+
+        // Save the initial health sprite so we can reset it later
+        if (healthImage != null)
+            fullHealthSprite = healthImage.sprite;
         totalAnimals = animals.Length;
         UpdateScoreText();
         ClearFeedback();
@@ -51,6 +63,45 @@ public class SetsGameplay : MonoBehaviour
         // Hide next level button until all animals are sorted
         if (nextLevelButton != null)
             nextLevelButton.SetActive(false);
+
+        // Hide level two at the start
+        if (levelTwoObject != null)
+            levelTwoObject.SetActive(false);
+    }
+
+    /// <summary>
+    /// Call this from the Next Level button's OnClick event.
+    /// Disables Level 1 and enables Level 2.
+    /// </summary>
+    public void GoToNextLevel()
+    {
+        if (levelOneObject != null)
+            levelOneObject.SetActive(false);
+
+        if (levelTwoObject != null)
+            levelTwoObject.SetActive(true);
+
+        if (nextLevelButton != null)
+            nextLevelButton.SetActive(false);
+
+        // Destroy all existing animal cards (they may be in drop zones or cards panel)
+        DraggableAnimal[] existingCards = FindObjectsByType<DraggableAnimal>(FindObjectsInactive.Include, FindObjectsSortMode.None);
+        foreach (var card in existingCards)
+        {
+            Destroy(card.gameObject);
+        }
+
+        // Reset score, health, and respawn animals for Level 2
+        correctCount = 0;
+        wrongCount = 0;
+
+        // Reset health back to full
+        if (healthImage != null && fullHealthSprite != null)
+            healthImage.sprite = fullHealthSprite;
+
+        UpdateScoreText();
+        ClearFeedback();
+        SpawnAnimalCards();
     }
 
     /// <summary>
