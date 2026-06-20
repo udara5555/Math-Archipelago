@@ -109,7 +109,7 @@ public class DraggableAnimal : MonoBehaviour, IBeginDragHandler, IDragHandler, I
                     }
 
                     // Create a scaled copy at the drop position inside the diagram
-                    CreatePlacedCopy(zone.placedCardScale);
+                    CreatePlacedCopy(zone);
 
                     // Track this diagram as completed
                     placedInDiagrams.Add(zone.vennDiagramIndex);
@@ -146,17 +146,23 @@ public class DraggableAnimal : MonoBehaviour, IBeginDragHandler, IDragHandler, I
     /// Creates a small non-draggable copy of this animal card at the current drop position.
     /// The copy stays in the Venn diagram as a visual marker.
     /// </summary>
-    void CreatePlacedCopy(float scale)
+    void CreatePlacedCopy(DropZone zone)
     {
         // Create a new GameObject with Image for the placed animal
         GameObject copy = new GameObject(animalData.animalName + "_placed");
-        copy.transform.SetParent(transform.parent, false);
-
-        // Copy the RectTransform position
+        
+        // Add RectTransform first
         RectTransform copyRect = copy.AddComponent<RectTransform>();
-        copyRect.anchoredPosition = rectTransform.anchoredPosition;
+        
+        // Match world position and size of the original card
+        copyRect.position = rectTransform.position;
         copyRect.sizeDelta = rectTransform.sizeDelta;
-        copyRect.localScale = new Vector3(scale, scale, 1f);
+        
+        // Now parent it to the zone (worldPositionStays = true keeps it exactly where it was)
+        copy.transform.SetParent(zone.transform, true);
+
+        // Apply the scale down for the placed version
+        copyRect.localScale = new Vector3(zone.placedCardScale, zone.placedCardScale, 1f);
 
         // Copy the animal sprite
         Image copyImage = copy.AddComponent<Image>();

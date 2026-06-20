@@ -543,7 +543,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1865065232351340913, guid: 01f933323de59164485fbed05a247f27, type: 3}
       propertyPath: placedCardScale
-      value: 0.3
+      value: 0.15
       objectReference: {fileID: 0}
     - target: {fileID: 1865065232351340913, guid: 01f933323de59164485fbed05a247f27, type: 3}
       propertyPath: vennDiagramIndex
@@ -1088,7 +1088,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1865065232351340913, guid: 01f933323de59164485fbed05a247f27, type: 3}
       propertyPath: placedCardScale
-      value: 0.3
+      value: 0.15
       objectReference: {fileID: 0}
     - target: {fileID: 1938008036995613306, guid: 01f933323de59164485fbed05a247f27, type: 3}
       propertyPath: m_text
@@ -1837,7 +1837,7 @@ MonoBehaviour:
   attributeB: 2
   pairedZone: {fileID: 0}
   vennDiagramIndex: 1
-  placedCardScale: 0.3
+  placedCardScale: 0.1
 --- !u!1001 &668880317
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1868,7 +1868,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1865065232351340913, guid: 01f933323de59164485fbed05a247f27, type: 3}
       propertyPath: placedCardScale
-      value: 0.3
+      value: 0.15
       objectReference: {fileID: 0}
     - target: {fileID: 1938008036995613306, guid: 01f933323de59164485fbed05a247f27, type: 3}
       propertyPath: m_text
@@ -2296,7 +2296,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1865065232351340913, guid: 01f933323de59164485fbed05a247f27, type: 3}
       propertyPath: placedCardScale
-      value: 0.3
+      value: 0.15
       objectReference: {fileID: 0}
     - target: {fileID: 1865065232351340913, guid: 01f933323de59164485fbed05a247f27, type: 3}
       propertyPath: vennDiagramIndex
@@ -4403,7 +4403,7 @@ MonoBehaviour:
   attributeB: 4
   pairedZone: {fileID: 0}
   vennDiagramIndex: 2
-  placedCardScale: 0.3
+  placedCardScale: 0.1
 --- !u!1 &1870580918
 GameObject:
   m_ObjectHideFlags: 0
