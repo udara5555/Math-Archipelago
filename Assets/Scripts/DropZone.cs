@@ -59,15 +59,12 @@ public class DropZone : MonoBehaviour, IDropHandler
     [Tooltip("The other circle in this Venn diagram (for automatic intersection detection)")]
     public DropZone pairedZone;
 
+    [Tooltip("Which Venn diagram this zone belongs to (1 or 2). Used to track per-diagram placement.")]
+    public int vennDiagramIndex = 1;
+
     [Header("Layout Settings")]
-    [Tooltip("Scale for animal cards when placed inside the zone (e.g. 0.2 = 20% of original size)")]
-    public float placedCardScale = 0.2f;
-
-    [Tooltip("Radius within which to arrange placed animals (fraction of zone size). 0.35 keeps them well inside the circle.")]
-    public float arrangementRadius = 0.35f;
-
-    // Track animals placed in this zone
-    List<RectTransform> placedAnimals = new List<RectTransform>();
+    [Tooltip("Scale for animal cards when placed (e.g. 0.1 = 10% of original size)")]
+    public float placedCardScale = 0.1f;
 
     public void OnDrop(PointerEventData eventData)
     {
@@ -125,9 +122,10 @@ public class DropZone : MonoBehaviour, IDropHandler
         Vector2 localPoint;
         RectTransformUtility.ScreenPointToLocalPointInRectangle(rect, screenPoint, cam, out localPoint);
 
-        // Check distance from center against the circle radius
+        // Use rect.center to account for any pivot offset
+        Vector2 fromCenter = localPoint - rect.rect.center;
         float radius = Mathf.Min(rect.rect.width, rect.rect.height) * 0.5f;
-        return localPoint.magnitude <= radius;
+        return fromCenter.magnitude <= radius;
     }
 
     /// <summary>
@@ -142,63 +140,6 @@ public class DropZone : MonoBehaviour, IDropHandler
             case AnimalAttribute.ProduceMilk: return animal.produceMilk;
             case AnimalAttribute.HaveFins: return animal.haveFins;
             default: return false;
-        }
-    }
-
-    /// <summary>
-    /// Places an animal inside this zone and arranges all placed animals
-    /// so they spread out inside the circle instead of stacking.
-    /// </summary>
-    public void PlaceAnimal(RectTransform animalRect)
-    {
-        // Reparent the animal under this zone (worldPositionStays = false to reset position)
-        animalRect.SetParent(transform, false);
-
-        // Reset anchors and pivot to center
-        animalRect.anchorMin = new Vector2(0.5f, 0.5f);
-        animalRect.anchorMax = new Vector2(0.5f, 0.5f);
-        animalRect.pivot = new Vector2(0.5f, 0.5f);
-
-        // Shrink the card using scale only — this always works regardless of Image settings
-        animalRect.localScale = new Vector3(placedCardScale, placedCardScale, 1f);
-
-        // Add to our tracking list
-        placedAnimals.Add(animalRect);
-
-        // Rearrange all placed animals inside the circle
-        ArrangeAnimals();
-    }
-
-    /// <summary>
-    /// Distributes all placed animals evenly inside the zone circle.
-    /// 1 animal  = center
-    /// 2+ animals = spread in a ring pattern
-    /// </summary>
-    void ArrangeAnimals()
-    {
-        RectTransform zoneRect = GetComponent<RectTransform>();
-        float zoneRadius = Mathf.Min(zoneRect.rect.width, zoneRect.rect.height) * arrangementRadius;
-
-        int count = placedAnimals.Count;
-
-        if (count == 1)
-        {
-            // Single animal goes to center
-            placedAnimals[0].anchoredPosition = Vector2.zero;
-        }
-        else
-        {
-            // Spread animals in a circle pattern
-            float angleStep = 360f / count;
-
-            for (int i = 0; i < count; i++)
-            {
-                float angle = angleStep * i * Mathf.Deg2Rad;
-                float x = Mathf.Cos(angle) * zoneRadius;
-                float y = Mathf.Sin(angle) * zoneRadius;
-
-                placedAnimals[i].anchoredPosition = new Vector2(x, y);
-            }
         }
     }
 }

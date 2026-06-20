@@ -95,6 +95,9 @@ public class SetsGameplay : MonoBehaviour
         correctCount = 0;
         wrongCount = 0;
 
+        // Level 2: each animal needs to be placed in 2 diagrams
+        totalAnimals = animals.Length * 2;
+
         // Reset health back to full
         if (healthImage != null && fullHealthSprite != null)
             healthImage.sprite = fullHealthSprite;

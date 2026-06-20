@@ -541,6 +541,14 @@ PrefabInstance:
       propertyPath: vennRegion
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 1865065232351340913, guid: 01f933323de59164485fbed05a247f27, type: 3}
+      propertyPath: placedCardScale
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1865065232351340913, guid: 01f933323de59164485fbed05a247f27, type: 3}
+      propertyPath: vennDiagramIndex
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 1938008036995613306, guid: 01f933323de59164485fbed05a247f27, type: 3}
       propertyPath: m_text
       value: Y
@@ -1078,6 +1086,10 @@ PrefabInstance:
       propertyPath: vennRegion
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 1865065232351340913, guid: 01f933323de59164485fbed05a247f27, type: 3}
+      propertyPath: placedCardScale
+      value: 0.3
+      objectReference: {fileID: 0}
     - target: {fileID: 1938008036995613306, guid: 01f933323de59164485fbed05a247f27, type: 3}
       propertyPath: m_text
       value: B
@@ -1346,7 +1358,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &471205256
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1565,8 +1577,8 @@ MonoBehaviour:
   attributeA: 0
   attributeB: 0
   pairedZone: {fileID: 0}
-  placedCardScale: 0.1
-  arrangementRadius: 0.3
+  vennDiagramIndex: 1
+  placedCardScale: 0.3
 --- !u!114 &536016448
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1824,8 +1836,8 @@ MonoBehaviour:
   attributeA: 1
   attributeB: 2
   pairedZone: {fileID: 0}
-  placedCardScale: 0.1
-  arrangementRadius: 0.3
+  vennDiagramIndex: 1
+  placedCardScale: 0.3
 --- !u!1001 &668880317
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1853,6 +1865,10 @@ PrefabInstance:
     - target: {fileID: 1865065232351340913, guid: 01f933323de59164485fbed05a247f27, type: 3}
       propertyPath: vennRegion
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1865065232351340913, guid: 01f933323de59164485fbed05a247f27, type: 3}
+      propertyPath: placedCardScale
+      value: 0.3
       objectReference: {fileID: 0}
     - target: {fileID: 1938008036995613306, guid: 01f933323de59164485fbed05a247f27, type: 3}
       propertyPath: m_text
@@ -2278,6 +2294,14 @@ PrefabInstance:
       propertyPath: vennRegion
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1865065232351340913, guid: 01f933323de59164485fbed05a247f27, type: 3}
+      propertyPath: placedCardScale
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1865065232351340913, guid: 01f933323de59164485fbed05a247f27, type: 3}
+      propertyPath: vennDiagramIndex
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 1938008036995613306, guid: 01f933323de59164485fbed05a247f27, type: 3}
       propertyPath: m_text
       value: X
@@ -2636,8 +2660,8 @@ MonoBehaviour:
   attributeA: 0
   attributeB: 0
   pairedZone: {fileID: 0}
-  placedCardScale: 0.1
-  arrangementRadius: 0.3
+  vennDiagramIndex: 1
+  placedCardScale: 0.3
 --- !u!114 &960818014
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3009,8 +3033,8 @@ MonoBehaviour:
   feedbackText: {fileID: 0}
   scoreText: {fileID: 2029830522}
   nextLevelButton: {fileID: 2105044874}
-  levelOneObject: {fileID: 548424572}
-  levelTwoObject: {fileID: 471205255}
+  levelOneObject: {fileID: 471205255}
+  levelTwoObject: {fileID: 548424572}
   healthImage: {fileID: 289180029}
   healthStages:
   - {fileID: 5192347163212144093, guid: 88e26b9c91bc72b4d90c6e59c04625d8, type: 3}
@@ -3381,8 +3405,8 @@ MonoBehaviour:
   attributeA: 0
   attributeB: 0
   pairedZone: {fileID: 0}
-  placedCardScale: 0.1
-  arrangementRadius: 0.3
+  vennDiagramIndex: 1
+  placedCardScale: 0.3
 --- !u!114 &1311010251
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4378,8 +4402,8 @@ MonoBehaviour:
   attributeA: 3
   attributeB: 4
   pairedZone: {fileID: 0}
-  placedCardScale: 0.1
-  arrangementRadius: 0.3
+  vennDiagramIndex: 2
+  placedCardScale: 0.3
 --- !u!1 &1870580918
 GameObject:
   m_ObjectHideFlags: 0
@@ -4853,8 +4877,8 @@ MonoBehaviour:
   attributeA: 0
   attributeB: 0
   pairedZone: {fileID: 0}
-  placedCardScale: 0.1
-  arrangementRadius: 0.3
+  vennDiagramIndex: 1
+  placedCardScale: 0.3
 --- !u!114 &1967931902
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4949,8 +4973,8 @@ MonoBehaviour:
   attributeA: 0
   attributeB: 0
   pairedZone: {fileID: 0}
-  placedCardScale: 0.1
-  arrangementRadius: 0.3
+  vennDiagramIndex: 1
+  placedCardScale: 0.3
 --- !u!114 &1974101920
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5976,8 +6000,8 @@ MonoBehaviour:
   attributeA: 0
   attributeB: 0
   pairedZone: {fileID: 0}
-  placedCardScale: 0.1
-  arrangementRadius: 0.3
+  vennDiagramIndex: 1
+  placedCardScale: 0.3
 --- !u!1 &7348269182930615760
 GameObject:
   m_ObjectHideFlags: 0
