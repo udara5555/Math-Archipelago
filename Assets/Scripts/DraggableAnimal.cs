@@ -9,6 +9,7 @@ using UnityEngine.UI;
 public class DraggableAnimal : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandler
 {
     [HideInInspector] public string animalCategory;  // Set by SetsGameplay when spawning
+    [HideInInspector] public AnimalData animalData;    // Full data for Level 2 attribute checking
 
     Canvas parentCanvas;
     RectTransform rectTransform;
@@ -65,7 +66,16 @@ public class DraggableAnimal : MonoBehaviour, IBeginDragHandler, IDragHandler, I
 
             if (zone != null)
             {
-                if (zone.IsCorrectZone(animalCategory))
+                // Check if the drop is in the intersection (overlap) of two Venn circles
+                bool isInIntersection = false;
+                if ((zone.vennRegion == VennRegion.SetA || zone.vennRegion == VennRegion.SetB)
+                    && zone.pairedZone != null)
+                {
+                    isInIntersection = zone.pairedZone.IsPointInsideCircle(
+                        eventData.position, eventData.pressEventCamera);
+                }
+
+                if (zone.IsCorrectZoneForAnimal(animalData, isInIntersection))
                 {
                     // Correct! Let the zone handle placement inside the circle
                     zone.PlaceAnimal(rectTransform);

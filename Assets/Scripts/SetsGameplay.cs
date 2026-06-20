@@ -134,6 +134,7 @@ public class SetsGameplay : MonoBehaviour
                 draggable = card.AddComponent<DraggableAnimal>();
 
             draggable.animalCategory = animal.category;
+            draggable.animalData = animal;
         }
     }
 
