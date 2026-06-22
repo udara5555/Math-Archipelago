@@ -91,12 +91,70 @@ public class SetsGameplay : MonoBehaviour
             Destroy(card.gameObject);
         }
 
+        // Destroy any placed copies from Level 2
+        RectTransform[] allRects = FindObjectsByType<RectTransform>(FindObjectsInactive.Include, FindObjectsSortMode.None);
+        foreach (var rect in allRects)
+        {
+            if (rect != null && rect.gameObject.name.EndsWith("_placed"))
+            {
+                Destroy(rect.gameObject);
+            }
+        }
+
         // Reset score, health, and respawn animals for Level 2
         correctCount = 0;
         wrongCount = 0;
 
         // Level 2: each animal needs to be placed in 2 diagrams
         totalAnimals = animals.Length * 2;
+
+        // Reset health back to full
+        if (healthImage != null && fullHealthSprite != null)
+            healthImage.sprite = fullHealthSprite;
+
+        UpdateScoreText();
+        ClearFeedback();
+        SpawnAnimalCards();
+    }
+
+    /// <summary>
+    /// Call this from the Restart Level button's OnClick event.
+    /// Resets the current active level back to its starting state.
+    /// </summary>
+    public void RestartLevel()
+    {
+        // Destroy all existing animal cards
+        DraggableAnimal[] existingCards = FindObjectsByType<DraggableAnimal>(FindObjectsInactive.Include, FindObjectsSortMode.None);
+        foreach (var card in existingCards)
+        {
+            Destroy(card.gameObject);
+        }
+
+        // Destroy any placed copies from Level 2
+        RectTransform[] allRects = FindObjectsByType<RectTransform>(FindObjectsInactive.Include, FindObjectsSortMode.None);
+        foreach (var rect in allRects)
+        {
+            if (rect != null && rect.gameObject.name.EndsWith("_placed"))
+            {
+                Destroy(rect.gameObject);
+            }
+        }
+
+        // Reset counters
+        correctCount = 0;
+        wrongCount = 0;
+
+        // Check which level is currently active to set the correct total
+        if (levelTwoObject != null && levelTwoObject.activeSelf)
+        {
+            // Level 2: each animal needs to be placed in 2 diagrams
+            totalAnimals = animals.Length * 2;
+        }
+        else
+        {
+            // Level 1: placed once
+            totalAnimals = animals.Length;
+        }
 
         // Reset health back to full
         if (healthImage != null && fullHealthSprite != null)
