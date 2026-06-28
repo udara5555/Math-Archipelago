@@ -51,6 +51,15 @@ public class AlgebraGameplay : MonoBehaviour
     [Tooltip("TMP for feedback messages (Correct / Wrong)")]
     public TMP_Text feedbackText;
 
+    [Header("Health")]
+    public Image healthImage;
+
+    [Tooltip("Assign 5 sprites: index 0 = 1 wrong, index 1 = 2 wrong, ..., index 4 = 5 wrong (game over)")]
+    public Sprite[] healthStages = new Sprite[5];
+
+    [Tooltip("Image for the ghost's health bar (Filled mode)")]
+    public Image ghostHealthImage;
+
     [Header("Game Settings")]
     [Tooltip("Minimum initial coins (must be > 50)")]
     public int minInitialCoins = 51;
@@ -71,6 +80,7 @@ public class AlgebraGameplay : MonoBehaviour
     int totalRemoved;   // cumulative coins taken out
     string lastActionSign = "";
     int lastActionValue = 0;
+    int wrongAnswerCount = 0;
 
     void Start()
     {
@@ -233,11 +243,37 @@ public class AlgebraGameplay : MonoBehaviour
         {
             ShowFeedback("Correct! The chest started with " + initialCoins + " coins!", Color.green);
             Debug.Log("[AlgebraGame] Correct answer!");
+
+            // Reduce ghost health by 10%
+            if (ghostHealthImage != null)
+            {
+                ghostHealthImage.fillAmount -= 0.1f;
+                if (ghostHealthImage.fillAmount <= 0)
+                {
+                    Debug.Log("[AlgebraGame] Ghost Defeated!");
+                }
+            }
         }
         else
         {
             ShowFeedback("Wrong! Try again.", Color.red);
             Debug.Log("[AlgebraGame] Wrong answer on one or more fields!");
+
+            wrongAnswerCount++;
+
+            if (healthImage != null && healthStages != null && wrongAnswerCount <= healthStages.Length && healthStages[wrongAnswerCount - 1] != null)
+            {
+                healthImage.sprite = healthStages[wrongAnswerCount - 1];
+            }
+
+            if (healthStages != null && wrongAnswerCount >= healthStages.Length)
+            {
+                Debug.Log("[AlgebraGame] Game Over!");
+                ShowFeedback("Game Over!", Color.red);
+                if (submitButton != null) submitButton.interactable = false;
+                if (putCoinsButton != null) putCoinsButton.interactable = false;
+                if (getCoinsButton != null) getCoinsButton.interactable = false;
+            }
         }
 
         // Reset all input fields, signs, and values after submit

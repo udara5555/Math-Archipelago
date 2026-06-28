@@ -518,6 +518,14 @@ MonoBehaviour:
   answerInput: {fileID: 1066081353}
   submitButton: {fileID: 2143298590}
   feedbackText: {fileID: 0}
+  healthImage: {fileID: 1692850864}
+  healthStages:
+  - {fileID: -9089365156543738993, guid: 88e26b9c91bc72b4d90c6e59c04625d8, type: 3}
+  - {fileID: 5192347163212144093, guid: 88e26b9c91bc72b4d90c6e59c04625d8, type: 3}
+  - {fileID: -4254891169522011763, guid: 88e26b9c91bc72b4d90c6e59c04625d8, type: 3}
+  - {fileID: 8944352477240310334, guid: 88e26b9c91bc72b4d90c6e59c04625d8, type: 3}
+  - {fileID: 1112393213415347979, guid: 88e26b9c91bc72b4d90c6e59c04625d8, type: 3}
+  ghostHealthImage: {fileID: 1908847511}
   minInitialCoins: 20
   maxInitialCoins: 30
   minRandom: 1
