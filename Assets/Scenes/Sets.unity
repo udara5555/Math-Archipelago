@@ -3038,7 +3038,9 @@ MonoBehaviour:
   levelTwoObject: {fileID: 548424572}
   healthImage: {fileID: 289180029}
   healthStages:
+  - {fileID: -9089365156543738993, guid: 88e26b9c91bc72b4d90c6e59c04625d8, type: 3}
   - {fileID: 5192347163212144093, guid: 88e26b9c91bc72b4d90c6e59c04625d8, type: 3}
+  - {fileID: -4254891169522011763, guid: 88e26b9c91bc72b4d90c6e59c04625d8, type: 3}
   - {fileID: 8944352477240310334, guid: 88e26b9c91bc72b4d90c6e59c04625d8, type: 3}
   - {fileID: 1112393213415347979, guid: 88e26b9c91bc72b4d90c6e59c04625d8, type: 3}
 --- !u!224 &1073718836 stripped
