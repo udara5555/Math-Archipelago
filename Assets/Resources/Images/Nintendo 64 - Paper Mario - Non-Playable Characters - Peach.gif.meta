@@ -1,0 +1,4186 @@
+fileFormatVersion: 2
+guid: e7af3f120d4ea9649868c448eb3360fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3848902497688254006
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_0
+  - first:
+      213: 34370763889342586
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_1
+  - first:
+      213: -4976176390423280970
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_2
+  - first:
+      213: -6280678332870908124
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_3
+  - first:
+      213: -1739327160011012675
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_4
+  - first:
+      213: -4911685498886461824
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_5
+  - first:
+      213: -4353770367360182306
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_6
+  - first:
+      213: 396319941480756841
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_7
+  - first:
+      213: -5048778016182960021
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_8
+  - first:
+      213: -1309989293041469260
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_9
+  - first:
+      213: 3058242305870336955
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_10
+  - first:
+      213: 5695323238303585710
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_11
+  - first:
+      213: -5625463877119361043
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_12
+  - first:
+      213: -3811452799406101496
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_13
+  - first:
+      213: 3330120466982724814
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_14
+  - first:
+      213: -8074040877689819819
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_15
+  - first:
+      213: 410690710146894234
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_16
+  - first:
+      213: -506905242917053599
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_17
+  - first:
+      213: 2613174819061646593
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_18
+  - first:
+      213: 7127805871530430903
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_19
+  - first:
+      213: 7069361431610693565
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_20
+  - first:
+      213: -65556077483034749
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_21
+  - first:
+      213: -6731139057726743041
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_22
+  - first:
+      213: -7321020769845426834
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_23
+  - first:
+      213: 3889587785974356334
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_24
+  - first:
+      213: -6850354303963142213
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_25
+  - first:
+      213: -3731082784202150477
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_26
+  - first:
+      213: -160740350485716572
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_27
+  - first:
+      213: -7625599838680209738
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_28
+  - first:
+      213: -4088429965771351805
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_29
+  - first:
+      213: -8331939636769508041
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_30
+  - first:
+      213: -7000745623872491649
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_31
+  - first:
+      213: -3859668920698606997
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_32
+  - first:
+      213: -7577401680488926112
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_33
+  - first:
+      213: 8624106711810145168
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_34
+  - first:
+      213: -9060791140150046605
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_35
+  - first:
+      213: 2113286359206409902
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_36
+  - first:
+      213: -5751090181257796805
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_37
+  - first:
+      213: -3386456884053367756
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_38
+  - first:
+      213: 5122480547124806126
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_39
+  - first:
+      213: -3981604964435226258
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_40
+  - first:
+      213: -7002233024568188218
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_41
+  - first:
+      213: 3001973813533192127
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_42
+  - first:
+      213: -6295275869775686063
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_43
+  - first:
+      213: -97800201127755631
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_44
+  - first:
+      213: 3395290406010048761
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_45
+  - first:
+      213: -8679998696808489582
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_46
+  - first:
+      213: 2767915323203974585
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_47
+  - first:
+      213: 2419896682790941460
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_48
+  - first:
+      213: 5432115803066546915
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_49
+  - first:
+      213: -1936429813787992609
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_50
+  - first:
+      213: -4338777299894630096
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_51
+  - first:
+      213: -8214638331051169189
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_52
+  - first:
+      213: 5550869396694343707
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_53
+  - first:
+      213: 9127957934361014172
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_54
+  - first:
+      213: 8917369314802813557
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_55
+  - first:
+      213: -5661721467649626965
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_56
+  - first:
+      213: -4075968545404802254
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_57
+  - first:
+      213: 734181201648527009
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_58
+  - first:
+      213: -5731035973848772742
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_59
+  - first:
+      213: 3588387623990293782
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_60
+  - first:
+      213: 194449175596268472
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_61
+  - first:
+      213: 8540186849875530120
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_62
+  - first:
+      213: -459543008636935773
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_63
+  - first:
+      213: 8601864188521302588
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_64
+  - first:
+      213: -7612122003675194249
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_65
+  - first:
+      213: 4782488651983471835
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_66
+  - first:
+      213: 7634888211279111085
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_67
+  - first:
+      213: 5358954314943256639
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_68
+  - first:
+      213: 3797525580183035835
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_69
+  - first:
+      213: 7231881437692311604
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_70
+  - first:
+      213: -6656321753203952446
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_71
+  - first:
+      213: -2124204012794962993
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_72
+  - first:
+      213: -6347714702343820417
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_73
+  - first:
+      213: 2881840806283267132
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_74
+  - first:
+      213: -836885470023360141
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_75
+  - first:
+      213: 2777398162603122531
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_76
+  - first:
+      213: 7844931208648206557
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_77
+  - first:
+      213: 5497315951066703502
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_78
+  - first:
+      213: 6257246589964916113
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_79
+  - first:
+      213: -8231509961992520570
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_80
+  - first:
+      213: 2479417984594637379
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_81
+  - first:
+      213: -1968711296923914937
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_82
+  - first:
+      213: -1827135056049070238
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_83
+  - first:
+      213: -4757642335530944261
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_84
+  - first:
+      213: -76524064667414752
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_85
+  - first:
+      213: 4875694011608988552
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_86
+  - first:
+      213: -2774170928065234339
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_87
+  - first:
+      213: -1889719721389111960
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_88
+  - first:
+      213: -5754326162447664003
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_89
+  - first:
+      213: -5098988858126788303
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_90
+  - first:
+      213: 5009424388824942851
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_91
+  - first:
+      213: -2268242095384900157
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_92
+  - first:
+      213: 2008039417460233704
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_93
+  - first:
+      213: 8608867581613219947
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_94
+  - first:
+      213: 1659298354713417268
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_95
+  - first:
+      213: 7708053273823231549
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_96
+  - first:
+      213: 5712417917156244590
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_97
+  - first:
+      213: -8256949304835315251
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_98
+  - first:
+      213: -2321542036543446087
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_99
+  - first:
+      213: 5217770409899697386
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_100
+  - first:
+      213: -5993454521161267399
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_101
+  - first:
+      213: -4547188307988104045
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_102
+  - first:
+      213: -3158161033326636059
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_103
+  - first:
+      213: -4599892562156106457
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_104
+  - first:
+      213: 4156309390805295141
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_105
+  - first:
+      213: -4252203208246153499
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_106
+  - first:
+      213: 9075261403642729319
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_107
+  - first:
+      213: 3478602715783080935
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_108
+  - first:
+      213: 3618009994394160445
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_109
+  - first:
+      213: -815502034327584388
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_110
+  - first:
+      213: 1342938591388010176
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_111
+  - first:
+      213: -5788673143288137000
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_112
+  - first:
+      213: 8063135187275987885
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_113
+  - first:
+      213: -2163820166881755053
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_114
+  - first:
+      213: 1598871137426039192
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_115
+  - first:
+      213: -2545169414306621138
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_116
+  - first:
+      213: -135693944786126047
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_117
+  - first:
+      213: -4138910432916273618
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_118
+  - first:
+      213: -8122592848724275848
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_119
+  - first:
+      213: 7771085127877711192
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_120
+  - first:
+      213: -1665737488749408927
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_121
+  - first:
+      213: 7570018279920488544
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_122
+  - first:
+      213: 846176033480773579
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_123
+  - first:
+      213: -6833246972184998296
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_124
+  - first:
+      213: -9077129197466900520
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_125
+  - first:
+      213: 8598944968988311260
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_126
+  - first:
+      213: 6817900374961940333
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_127
+  - first:
+      213: -9070880878267693675
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_128
+  - first:
+      213: 4679225943189831023
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_129
+  - first:
+      213: 1198787744454227371
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_130
+  - first:
+      213: 6755252900593532278
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_131
+  - first:
+      213: -1657379450921707977
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_132
+  - first:
+      213: 3499345597158666062
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_133
+  - first:
+      213: -3624386140747533724
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_134
+  - first:
+      213: 708947388814082981
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_135
+  - first:
+      213: 618294372053649704
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_136
+  - first:
+      213: 6452317486948137858
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_137
+  - first:
+      213: -6886005446183344079
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_138
+  - first:
+      213: -1878953658563092382
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_139
+  - first:
+      213: 1690682800367084634
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_140
+  - first:
+      213: 5658557196548954418
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_141
+  - first:
+      213: -8621139425106088556
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_142
+  - first:
+      213: -4592157344639226129
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_143
+  - first:
+      213: -2626767086278952035
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_144
+  - first:
+      213: 8383256983447051356
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_145
+  - first:
+      213: 6872438361126688529
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_146
+  - first:
+      213: 2001169642402718169
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_147
+  - first:
+      213: 2380989972644932766
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_148
+  - first:
+      213: 7134262737474025672
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_149
+  - first:
+      213: 1191657652617552046
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_150
+  - first:
+      213: -5183389273533774849
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_151
+  - first:
+      213: 7332854600781681714
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_152
+  - first:
+      213: 6145343513657836772
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_153
+  - first:
+      213: -880574128877619417
+    second: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_154
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1506
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63672d5ed6c0a6530800000000000000
+      internalID: 3848902497688254006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1506
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a787844170c1a7000800000000000000
+      internalID: 34370763889342586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1506
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2822510f111fab0800000000000000
+      internalID: -4976176390423280970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1506
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427acbc255c86d8a0800000000000000
+      internalID: -6280678332870908124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1506
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5ca5fc92bacd7e0800000000000000
+      internalID: -1739327160011012675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1506
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0866f6edf0036dbb0800000000000000
+      internalID: -4911685498886461824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1416
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7dfdb0bec4493c0800000000000000
+      internalID: -4353770367360182306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1416
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9663d5113e2008500800000000000000
+      internalID: 396319941480756841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_8
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1416
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b600d93d4232fe9b0800000000000000
+      internalID: -5048778016182960021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1416
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8b2b8bdabf1dde0800000000000000
+      internalID: -1309989293041469260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_10
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1416
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb319768c2f017a20800000000000000
+      internalID: 3058242305870336955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_11
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1416
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5dc146f4ad90f40800000000000000
+      internalID: 5695323238303585710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_12
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1416
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def3283a8665ee1b0800000000000000
+      internalID: -5625463877119361043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_13
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1416
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c2b357fdffa1bc0800000000000000
+      internalID: -3811452799406101496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_14
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1416
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec463c5cbe6f63e20800000000000000
+      internalID: 3330120466982724814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_15
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1416
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55da05f899e33ff80800000000000000
+      internalID: -8074040877689819819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_16
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1416
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99cbd2660113b500800000000000000
+      internalID: 410690710146894234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_17
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1416
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b55250e5c17f8f0800000000000000
+      internalID: -506905242917053599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_18
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1332
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1054a2a17acd34420800000000000000
+      internalID: 2613174819061646593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_19
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1332
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1d388ecad0be260800000000000000
+      internalID: 7127805871530430903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_20
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1332
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7900854ca6b1260800000000000000
+      internalID: 7069361431610693565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_21
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1332
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38771c84819171ff0800000000000000
+      internalID: -65556077483034749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1332
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd907aa0b03692a0800000000000000
+      internalID: -6731139057726743041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_23
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1332
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e654b14f562866a90800000000000000
+      internalID: -7321020769845426834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_24
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1252
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6913b1cb779af530800000000000000
+      internalID: 3889587785974356334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_25
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1252
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb765b62e07aee0a0800000000000000
+      internalID: -6850354303963142213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_26
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1252
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd2e04d9f7883cc0800000000000000
+      internalID: -3731082784202150477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_27
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1252
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a12a3cb08fe4cdf0800000000000000
+      internalID: -160740350485716572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_28
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1174
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6a030595d6c2690800000000000000
+      internalID: -7625599838680209738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_29
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1174
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309d2298b9af247c0800000000000000
+      internalID: -4088429965771351805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_30
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1174
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7353b5c7b010f5c80800000000000000
+      internalID: -8331939636769508041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_31
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1174
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fa53652fa58de90800000000000000
+      internalID: -7000745623872491649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_32
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1095
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ae427e093bf6ac0800000000000000
+      internalID: -3859668920698606997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_33
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1095
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06472028159a7d690800000000000000
+      internalID: -7577401680488926112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_34
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1095
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b7186ac5bfea770800000000000000
+      internalID: 8624106711810145168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_35
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1095
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3709953d67a914280800000000000000
+      internalID: -9060791140150046605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_36
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1095
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea63d2d3fb6e35d10800000000000000
+      internalID: 2113286359206409902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_37
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1095
+        width: 45
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3364e263f50030b0800000000000000
+      internalID: -5751090181257796805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_38
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1095
+        width: 45
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434a2daf763e001d0800000000000000
+      internalID: -3386456884053367756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_39
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1095
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee10934eae4b61740800000000000000
+      internalID: 5122480547124806126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_40
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1095
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6118ea516f7eb8c0800000000000000
+      internalID: -3981604964435226258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_41
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1014
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2aa10e92213de90800000000000000
+      internalID: -7002233024568188218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_42
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1014
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfabac374729a920800000000000000
+      internalID: 3001973813533192127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_43
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1014
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1569ee243ffa2a8a0800000000000000
+      internalID: -6295275869775686063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_44
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1014
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19081d83c3b84aef0800000000000000
+      internalID: -97800201127755631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_45
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1014
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0558f92ae7e1f20800000000000000
+      internalID: 3395290406010048761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_46
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1014
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d50e18c237a8780800000000000000
+      internalID: -8679998696808489582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_47
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 931
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5fee7425c996620800000000000000
+      internalID: 2767915323203974585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_48
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 931
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41376ea3633359120800000000000000
+      internalID: 2419896682790941460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_49
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 931
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea3194da80c26b40800000000000000
+      internalID: 5432115803066546915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_50
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 931
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddd0b0185b6025e0800000000000000
+      internalID: -1936429813787992609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_51
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 931
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0398048980199c3c0800000000000000
+      internalID: -4338777299894630096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_52
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 931
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a236ff5fdbffd80800000000000000
+      internalID: -8214638331051169189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_53
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 931
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10ad887e46a80d40800000000000000
+      internalID: 5550869396694343707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_54
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 931
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9feb4a11650dae70800000000000000
+      internalID: 9127957934361014172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_55
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 931
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a4ac3452cd0cb70800000000000000
+      internalID: 8917369314802813557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_56
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 931
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac6a8f72568d61b0800000000000000
+      internalID: -5661721467649626965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_57
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 931
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b2b7f04304f67c0800000000000000
+      internalID: -4075968545404802254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_58
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 931
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6a70db9e5503a00800000000000000
+      internalID: 734181201648527009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_59
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 931
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f42c765254770b0800000000000000
+      internalID: -5731035973848772742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_60
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 931
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615795c28838cc130800000000000000
+      internalID: 3588387623990293782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_61
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 848
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb7846be72d2b200800000000000000
+      internalID: 194449175596268472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_62
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 848
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8811b4e21b6d48670800000000000000
+      internalID: 8540186849875530120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_63
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 848
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a16e2381106f99f0800000000000000
+      internalID: -459543008636935773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_64
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 848
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a47f2a7e5ff5770800000000000000
+      internalID: 8601864188521302588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_65
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 848
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c51005e5f4c5690800000000000000
+      internalID: -7612122003675194249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_66
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 848
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4cfcb1710de5240800000000000000
+      internalID: 4782488651983471835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_67
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 848
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3eb15706294f960800000000000000
+      internalID: 7634888211279111085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_68
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 848
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f385db57e84de5a40800000000000000
+      internalID: 5358954314943256639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_69
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 848
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfd440256583b430800000000000000
+      internalID: 3797525580183035835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_70
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 848
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4383467f9ddcc5460800000000000000
+      internalID: 7231881437692311604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_71
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 848
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4b295d1aeff93a0800000000000000
+      internalID: -6656321753203952446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_72
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 848
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb95e274bf4582e0800000000000000
+      internalID: -2124204012794962993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_73
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 848
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ba54f1c1368e7a0800000000000000
+      internalID: -6347714702343820417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_74
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 848
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c4db5d1fa5ef720800000000000000
+      internalID: 2881840806283267132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_75
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 763
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37162995919c264f0800000000000000
+      internalID: -836885470023360141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_76
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 763
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f18c1e9ec4b8620800000000000000
+      internalID: 2777398162603122531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_77
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 763
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd82adabe5bcedc60800000000000000
+      internalID: 7844931208648206557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_78
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 763
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e866b614bb36a4c40800000000000000
+      internalID: 5497315951066703502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_79
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 763
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19512ea0f9436d650800000000000000
+      internalID: 6257246589964916113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_80
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 681
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cb85e4d4dc3cd80800000000000000
+      internalID: -8231509961992520570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_81
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 681
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3427a7d3589a86220800000000000000
+      internalID: 2479417984594637379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_82
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 681
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d2d81918bbda4e0800000000000000
+      internalID: -1968711296923914937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_83
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 681
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f188bd856b4a6e0800000000000000
+      internalID: -1827135056049070238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_84
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 681
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8715eb08579fdb0800000000000000
+      internalID: -4757642335530944261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_85
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 681
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fcab4c4c120fef0800000000000000
+      internalID: -76524064667414752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_86
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 681
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bf37bfed1f9a340800000000000000
+      internalID: 4875694011608988552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_87
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 681
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ab4763d3a2089d0800000000000000
+      internalID: -2774170928065234339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_88
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 681
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8654d81fced56c5e0800000000000000
+      internalID: -1889719721389111960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_89
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 681
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cf19dc7d68420b0800000000000000
+      internalID: -5754326162447664003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_90
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 681
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1399dad26a0cc39b0800000000000000
+      internalID: -5098988858126788303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_91
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 617
+        width: 70
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309c619c0fc058540800000000000000
+      internalID: 5009424388824942851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_92
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 617
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdcef7f4d59580e0800000000000000
+      internalID: -2268242095384900157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_93
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 617
+        width: 72
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e513bc063dfddb10800000000000000
+      internalID: 2008039417460233704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_94
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 617
+        width: 71
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60ae682477d87770800000000000000
+      internalID: 8608867581613219947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_95
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 617
+        width: 77
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4365511ff03070710800000000000000
+      internalID: 1659298354713417268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_96
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 617
+        width: 84
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e35001d9188fa60800000000000000
+      internalID: 7708053273823231549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_97
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 617
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cbca874d5964f40800000000000000
+      internalID: 5712417917156244590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_98
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 530
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9e1ecba5c696d80800000000000000
+      internalID: -8256949304835315251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_99
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 530
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3e0bc51d938cfd0800000000000000
+      internalID: -2321542036543446087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_100
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 530
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4ad99fa8e396840800000000000000
+      internalID: 5217770409899697386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_101
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 530
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93749b02ed8f2dca0800000000000000
+      internalID: -5993454521161267399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_102
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 530
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c3f8f635425e0c0800000000000000
+      internalID: -4547188307988104045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_103
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 530
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3d519d545fb24d0800000000000000
+      internalID: -3158161033326636059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_104
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 530
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d49b30616e920c0800000000000000
+      internalID: -4599892562156106457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_105
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 530
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520e19fae5d2ea930800000000000000
+      internalID: 4156309390805295141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_106
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 530
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee26b316b32df4c0800000000000000
+      internalID: -4252203208246153499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_107
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 530
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76310ffe92ec1fd70800000000000000
+      internalID: 9075261403642729319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_108
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 530
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eba5f45dba764030800000000000000
+      internalID: 3478602715783080935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_109
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 530
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d4dadbbe0c53230800000000000000
+      internalID: 3618009994394160445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_110
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 530
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71cb427831cea4f0800000000000000
+      internalID: -815502034327584388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_111
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 443
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c688de988313a210800000000000000
+      internalID: 1342938591388010176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_112
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 443
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da777522708aafa0800000000000000
+      internalID: -5788673143288137000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_113
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 443
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabb9858bb206ef60800000000000000
+      internalID: 8063135187275987885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_114
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 471
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350cf2bc50198f1e0800000000000000
+      internalID: -2163820166881755053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_115
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 457
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89167eb04d4503610800000000000000
+      internalID: 1598871137426039192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_116
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 457
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29901f07edbdacd0800000000000000
+      internalID: -2545169414306621138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_117
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 470
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bf9de731bed1ef0800000000000000
+      internalID: -135693944786126047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_118
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 359
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e260ed0e3e2af86c0800000000000000
+      internalID: -4138910432916273618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_119
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 359
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d49a4e6d0c64f80800000000000000
+      internalID: -8122592848724275848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_120
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 359
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855d87630c078db60800000000000000
+      internalID: 7771085127877711192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_121
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 359
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d4a06549c12e8e0800000000000000
+      internalID: -1665737488749408927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_122
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 359
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060dfd5948b1e0960800000000000000
+      internalID: 7570018279920488544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_123
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 359
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf02158e983ebb00800000000000000
+      internalID: 846176033480773579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_124
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 359
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e4668351e6b21a0800000000000000
+      internalID: -6833246972184998296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_125
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 359
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7a8ac661f870280800000000000000
+      internalID: -9077129197466900520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_126
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 359
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde3eafd3e6955770800000000000000
+      internalID: 8598944968988311260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_127
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 359
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67eb9ba44c0e9e50800000000000000
+      internalID: 6817900374961940333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_128
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 359
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59588fa96e1cd1280800000000000000
+      internalID: -9070880878267693675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_129
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 359
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d3f972433ffe040800000000000000
+      internalID: 4679225943189831023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_130
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 359
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba539452a13f2a010800000000000000
+      internalID: 1198787744454227371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_131
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 359
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67dfdc3e8ba7fbd50800000000000000
+      internalID: 6755252900593532278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_132
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 359
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73697c9ab2ecff8e0800000000000000
+      internalID: -1657379450921707977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_133
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 276
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f28f0c74c209030800000000000000
+      internalID: 3499345597158666062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_134
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 276
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462f4eff10893bdc0800000000000000
+      internalID: -3624386140747533724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_135
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 203
+        width: 70
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a344bad4efa6d900800000000000000
+      internalID: 708947388814082981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_136
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 203
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82981ec947f949800800000000000000
+      internalID: 618294372053649704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_137
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 203
+        width: 72
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bb59b819c3b8950800000000000000
+      internalID: 6452317486948137858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_138
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 203
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13826d2c78eff60a0800000000000000
+      internalID: -6886005446183344079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_139
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 203
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2602de74a9d9ce5e0800000000000000
+      internalID: -1878953658563092382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_140
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 203
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a542ebf9c03867710800000000000000
+      internalID: 1690682800367084634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_141
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 115
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239d7893acb378e40800000000000000
+      internalID: 5658557196548954418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_142
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 115
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49daf6f9e5f8b5880800000000000000
+      internalID: -8621139425106088556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_143
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 115
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feee310b9316540c0800000000000000
+      internalID: -4592157344639226129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_144
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 115
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bb7a29049db8bd0800000000000000
+      internalID: -2626767086278952035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_145
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 115
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c9c2f5fcf475470800000000000000
+      internalID: 8383256983447051356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_146
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 115
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11759b7174ecf5f50800000000000000
+      internalID: 6872438361126688529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_147
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 115
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1a5b6ef2595cb10800000000000000
+      internalID: 2001169642402718169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_148
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 115
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ca44dd3c9fa0120800000000000000
+      internalID: 2380989972644932766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_149
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 115
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8f179292ef10360800000000000000
+      internalID: 7134262737474025672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_150
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 115
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea02526425e998010800000000000000
+      internalID: 1191657652617552046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_151
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 115
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff303722be6e018b0800000000000000
+      internalID: -5183389273533774849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_152
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 115
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2345e25886883c560800000000000000
+      internalID: 7332854600781681714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_153
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 115
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e48352cd55a84550800000000000000
+      internalID: 6145343513657836772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_154
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 12
+        width: 490
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727b9d9ce7297c3f0800000000000000
+      internalID: -880574128877619417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_0: 3848902497688254006
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_1: 34370763889342586
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_10: 3058242305870336955
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_100: 5217770409899697386
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_101: -5993454521161267399
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_102: -4547188307988104045
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_103: -3158161033326636059
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_104: -4599892562156106457
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_105: 4156309390805295141
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_106: -4252203208246153499
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_107: 9075261403642729319
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_108: 3478602715783080935
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_109: 3618009994394160445
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_11: 5695323238303585710
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_110: -815502034327584388
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_111: 1342938591388010176
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_112: -5788673143288137000
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_113: 8063135187275987885
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_114: -2163820166881755053
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_115: 1598871137426039192
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_116: -2545169414306621138
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_117: -135693944786126047
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_118: -4138910432916273618
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_119: -8122592848724275848
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_12: -5625463877119361043
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_120: 7771085127877711192
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_121: -1665737488749408927
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_122: 7570018279920488544
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_123: 846176033480773579
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_124: -6833246972184998296
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_125: -9077129197466900520
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_126: 8598944968988311260
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_127: 6817900374961940333
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_128: -9070880878267693675
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_129: 4679225943189831023
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_13: -3811452799406101496
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_130: 1198787744454227371
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_131: 6755252900593532278
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_132: -1657379450921707977
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_133: 3499345597158666062
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_134: -3624386140747533724
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_135: 708947388814082981
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_136: 618294372053649704
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_137: 6452317486948137858
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_138: -6886005446183344079
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_139: -1878953658563092382
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_14: 3330120466982724814
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_140: 1690682800367084634
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_141: 5658557196548954418
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_142: -8621139425106088556
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_143: -4592157344639226129
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_144: -2626767086278952035
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_145: 8383256983447051356
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_146: 6872438361126688529
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_147: 2001169642402718169
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_148: 2380989972644932766
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_149: 7134262737474025672
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_15: -8074040877689819819
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_150: 1191657652617552046
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_151: -5183389273533774849
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_152: 7332854600781681714
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_153: 6145343513657836772
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_154: -880574128877619417
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_16: 410690710146894234
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_17: -506905242917053599
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_18: 2613174819061646593
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_19: 7127805871530430903
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_2: -4976176390423280970
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_20: 7069361431610693565
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_21: -65556077483034749
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_22: -6731139057726743041
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_23: -7321020769845426834
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_24: 3889587785974356334
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_25: -6850354303963142213
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_26: -3731082784202150477
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_27: -160740350485716572
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_28: -7625599838680209738
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_29: -4088429965771351805
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_3: -6280678332870908124
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_30: -8331939636769508041
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_31: -7000745623872491649
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_32: -3859668920698606997
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_33: -7577401680488926112
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_34: 8624106711810145168
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_35: -9060791140150046605
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_36: 2113286359206409902
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_37: -5751090181257796805
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_38: -3386456884053367756
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_39: 5122480547124806126
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_4: -1739327160011012675
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_40: -3981604964435226258
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_41: -7002233024568188218
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_42: 3001973813533192127
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_43: -6295275869775686063
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_44: -97800201127755631
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_45: 3395290406010048761
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_46: -8679998696808489582
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_47: 2767915323203974585
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_48: 2419896682790941460
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_49: 5432115803066546915
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_5: -4911685498886461824
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_50: -1936429813787992609
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_51: -4338777299894630096
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_52: -8214638331051169189
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_53: 5550869396694343707
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_54: 9127957934361014172
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_55: 8917369314802813557
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_56: -5661721467649626965
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_57: -4075968545404802254
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_58: 734181201648527009
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_59: -5731035973848772742
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_6: -4353770367360182306
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_60: 3588387623990293782
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_61: 194449175596268472
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_62: 8540186849875530120
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_63: -459543008636935773
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_64: 8601864188521302588
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_65: -7612122003675194249
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_66: 4782488651983471835
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_67: 7634888211279111085
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_68: 5358954314943256639
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_69: 3797525580183035835
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_7: 396319941480756841
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_70: 7231881437692311604
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_71: -6656321753203952446
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_72: -2124204012794962993
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_73: -6347714702343820417
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_74: 2881840806283267132
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_75: -836885470023360141
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_76: 2777398162603122531
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_77: 7844931208648206557
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_78: 5497315951066703502
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_79: 6257246589964916113
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_8: -5048778016182960021
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_80: -8231509961992520570
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_81: 2479417984594637379
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_82: -1968711296923914937
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_83: -1827135056049070238
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_84: -4757642335530944261
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_85: -76524064667414752
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_86: 4875694011608988552
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_87: -2774170928065234339
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_88: -1889719721389111960
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_89: -5754326162447664003
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_9: -1309989293041469260
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_90: -5098988858126788303
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_91: 5009424388824942851
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_92: -2268242095384900157
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_93: 2008039417460233704
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_94: 8608867581613219947
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_95: 1659298354713417268
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_96: 7708053273823231549
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_97: 5712417917156244590
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_98: -8256949304835315251
+      Nintendo 64 - Paper Mario - Non-Playable Characters - Peach_99: -2321542036543446087
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
