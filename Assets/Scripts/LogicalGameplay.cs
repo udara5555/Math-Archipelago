@@ -1,9 +1,16 @@
 using UnityEngine;
+using TMPro;
 
 public class LogicalGameplay : MonoBehaviour
 {
     [Header("UI References")]
     public GameObject hintPanel;
+
+    [Header("Cage System")]
+    public GameObject cageAnswerGameObject;
+    public TMP_Text[] cageHintTexts;
+    public TMP_InputField cagePasscodeInputField;
+    private GameObject currentCage;
 
     [Header("Movement Settings")]
     public float moveSpeed = 5f;
@@ -23,6 +30,12 @@ public class LogicalGameplay : MonoBehaviour
         if (rb == null)
         {
             Debug.LogError("No Rigidbody2D found on " + gameObject.name + ". Please attach one for movement to work.");
+        }
+
+        // Ensure the cage answer UI is hidden when the game starts
+        if (cageAnswerGameObject != null)
+        {
+            cageAnswerGameObject.SetActive(false);
         }
     }
 
@@ -73,6 +86,76 @@ public class LogicalGameplay : MonoBehaviour
         if (hintPanel != null)
         {
             hintPanel.SetActive(false);
+        }
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.name.Contains("Cage"))
+        {
+            currentCage = collision.gameObject;
+            
+            if (cageAnswerGameObject != null)
+            {
+                cageAnswerGameObject.SetActive(true);
+            }
+            
+            if (cageHintTexts != null && cageHintTexts.Length >= 3)
+            {
+                cageHintTexts[0].text = "The code uses digits 2, 6, and 7.";
+                cageHintTexts[1].text = "7 is the last digit.";
+                cageHintTexts[2].text = "6 comes before 2.";
+            }
+            else if (cageHintTexts != null && cageHintTexts.Length == 1)
+            {
+                cageHintTexts[0].text = "The code uses digits 2, 6, and 7.\n\n7 is the last digit.\n\n6 comes before 2.";
+            }
+        }
+    }
+
+    public void SubmitCagePasscode()
+    {
+        if (cagePasscodeInputField != null)
+        {
+            if (cagePasscodeInputField.text == "627")
+            {
+                Debug.Log("Cage Passcode Correct!");
+                
+                // Clear the hint texts
+                if (cageHintTexts != null && cageHintTexts.Length >= 3)
+                {
+                    cageHintTexts[0].text = "";
+                    cageHintTexts[1].text = "";
+                    cageHintTexts[2].text = "";
+                }
+                else if (cageHintTexts != null && cageHintTexts.Length == 1)
+                {
+                    cageHintTexts[0].text = "";
+                }
+
+                if (cageAnswerGameObject != null)
+                {
+                    cageAnswerGameObject.SetActive(false);
+                }
+
+                if (currentCage != null)
+                {
+                    // Disable the entire cage prefab (similar to the ghost logic)
+                    if (currentCage.transform.parent != null)
+                    {
+                        currentCage.transform.parent.gameObject.SetActive(false);
+                    }
+                    else
+                    {
+                        currentCage.SetActive(false);
+                    }
+                }
+            }
+            else
+            {
+                Debug.Log("Cage Passcode Incorrect!");
+                cagePasscodeInputField.text = "";
+            }
         }
     }
 }

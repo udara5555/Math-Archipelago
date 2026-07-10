@@ -11,6 +11,11 @@ public class LogicalGhost : MonoBehaviour
     public TMP_InputField passcodeInputField;
     public string currentPasscode = "";
 
+    // Internal strings for this specific ghost's hints
+    private string hint1;
+    private string hint2;
+    private string hint3;
+
     void Start()
     {
         // Ensure the answer object is disabled when the game starts
@@ -35,20 +40,38 @@ public class LogicalGhost : MonoBehaviour
 
         currentPasscode = $"{a}{b}{c}";
 
-        string hint1 = $"The sum of the 3 digits is {a + b + c}.";
-        string hint2 = $"Digit 2 is {(b > a ? "greater" : "less")} than Digit 1 by {Mathf.Abs(b - a)}.";
-        string hint3 = $"Digit 3 is {(c > b ? "greater" : "less")} than Digit 2 by {Mathf.Abs(c - b)}.";
-
-        if (hintTexts != null && hintTexts.Length >= 3)
+        // Create a shuffled array to list the digits without giving away the order
+        int[] digits = { a, b, c };
+        for (int i = 0; i < digits.Length; i++)
         {
-            hintTexts[0].text = hint1;
-            hintTexts[1].text = hint2;
-            hintTexts[2].text = hint3;
+            int temp = digits[i];
+            int randomIndex = Random.Range(i, digits.Length);
+            digits[i] = digits[randomIndex];
+            digits[randomIndex] = temp;
         }
-        else if (hintTexts != null && hintTexts.Length == 1)
+
+        hint1 = $"The code uses digits {digits[0]}, {digits[1]}, and {digits[2]}.";
+
+        int template = Random.Range(0, 4);
+        switch (template)
         {
-            // Fallback if only one TMP Text is assigned for all hints
-            hintTexts[0].text = $"{hint1}\n\n{hint2}\n\n{hint3}";
+            case 0:
+                hint2 = $"{c} is the last digit.";
+                hint3 = $"{a} comes before {b}.";
+                break;
+            case 1:
+                hint2 = $"{b} is the middle digit.";
+                hint3 = $"{a} comes before {c}.";
+                break;
+            case 2:
+                hint2 = $"{a} is not the last digit.";
+                hint3 = $"{c} comes immediately after {b}.";
+                break;
+            case 3:
+            default:
+                hint2 = $"{c} is not the first digit.";
+                hint3 = $"{b} comes immediately after {a}.";
+                break;
         }
     }
 
@@ -62,6 +85,18 @@ public class LogicalGhost : MonoBehaviour
             {
                 // Enable the answer game object
                 answerGameObject.SetActive(true);
+
+                // Update the global Hint Panel to show THIS ghost's specific hints
+                if (hintTexts != null && hintTexts.Length >= 3)
+                {
+                    hintTexts[0].text = hint1;
+                    hintTexts[1].text = hint2;
+                    hintTexts[2].text = hint3;
+                }
+                else if (hintTexts != null && hintTexts.Length == 1)
+                {
+                    hintTexts[0].text = $"{hint1}\n\n{hint2}\n\n{hint3}";
+                }
             }
         }
     }
@@ -74,6 +109,18 @@ public class LogicalGhost : MonoBehaviour
             {
                 Debug.Log("Passcode Correct!");
                 
+                // Clear the hint texts since this ghost is solved
+                if (hintTexts != null && hintTexts.Length >= 3)
+                {
+                    hintTexts[0].text = "";
+                    hintTexts[1].text = "";
+                    hintTexts[2].text = "";
+                }
+                else if (hintTexts != null && hintTexts.Length == 1)
+                {
+                    hintTexts[0].text = "";
+                }
+
                 // Hide the answer UI
                 if (answerGameObject != null)
                 {
