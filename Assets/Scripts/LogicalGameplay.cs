@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using TMPro;
 
 public class LogicalGameplay : MonoBehaviour
@@ -11,6 +12,13 @@ public class LogicalGameplay : MonoBehaviour
     public TMP_Text[] cageHintTexts;
     public TMP_InputField cagePasscodeInputField;
     private GameObject currentCage;
+
+    [Header("Health")]
+    public UnityEngine.UI.Image healthImage;
+    [Tooltip("Assign 4 sprites: index 0 = 1 wrong answer, index 1 = 2 wrong, index 2 = 3 wrong, index 3 = 4 wrong (game over)")]
+    public Sprite[] healthStages = new Sprite[4];
+    public GameObject gameOverMessage;
+    private int wrongAnswerCount = 0;
 
     [Header("Movement Settings")]
     public float moveSpeed = 5f;
@@ -155,8 +163,52 @@ public class LogicalGameplay : MonoBehaviour
             {
                 Debug.Log("Cage Passcode Incorrect!");
                 cagePasscodeInputField.text = "";
+                TakeDamage();
             }
         }
+    }
+
+    public void TakeDamage()
+    {
+        wrongAnswerCount++;
+
+        if (healthImage != null && wrongAnswerCount <= healthStages.Length && healthStages[wrongAnswerCount - 1] != null)
+        {
+            healthImage.sprite = healthStages[wrongAnswerCount - 1];
+        }
+
+        if (wrongAnswerCount >= healthStages.Length)
+        {
+            Debug.Log("Game Over!");
+            
+            // Show Game Over message
+            if (gameOverMessage != null)
+            {
+                gameOverMessage.SetActive(true);
+            }
+
+            // Stop movement completely
+            moveSpeed = 0f;
+            if (rb != null)
+            {
+                rb.linearVelocity = Vector2.zero;
+            }
+            
+            // Disable this script to prevent further movement input
+            this.enabled = false;
+            
+            // Optionally disable interaction or reload scene here
+            if (cagePasscodeInputField != null)
+            {
+                cagePasscodeInputField.interactable = false;
+            }
+        }
+    }
+
+    public void RestartGame()
+    {
+        // Reloads the entire scene, completely resetting everything
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 }
 

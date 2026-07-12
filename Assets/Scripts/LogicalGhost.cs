@@ -142,6 +142,13 @@ public class LogicalGhost : MonoBehaviour
                 Debug.Log("Passcode Incorrect!");
                 // Clear the input field for another try
                 passcodeInputField.text = "";
+
+                // Hurt the player!
+                LogicalGameplay hero = FindAnyObjectByType<LogicalGameplay>();
+                if (hero != null)
+                {
+                    hero.TakeDamage();
+                }
             }
         }
         else
