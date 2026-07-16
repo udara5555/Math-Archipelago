@@ -20,6 +20,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Algebra.unity
     guid: e9b941118b0095b4b9d38ebdac1c4769
+  - enabled: 1
+    path: Assets/Scenes/LogicalThinking.unity
+    guid: 7aa16ce3bb4a84e49981e874efb146a7
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
