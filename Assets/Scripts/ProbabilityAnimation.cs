@@ -3,10 +3,14 @@ using UnityEngine;
 
 public class ProbabilityAnimation : MonoBehaviour
 {
+    [Header("Animators")]
     [SerializeField] private Animator bagButtonAnimator;
     [SerializeField] private Animator buyerAnimator;
     [SerializeField] private Animator sellerAnimator;
+    
+    [Header("UI")]
     [SerializeField] private GameObject questionPanel;
+    [SerializeField] private GameObject answerPanel;
 
     void Start()
     {
@@ -47,18 +51,12 @@ public class ProbabilityAnimation : MonoBehaviour
 
         // Play the "Question" animation
         sellerAnimator.Play("Question");
+    }
 
-        // Wait a frame to allow the animator to transition to the "Question" state
-        yield return null;
-
-        // Wait until the "Question" animation finishes playing
-        while (sellerAnimator.GetCurrentAnimatorStateInfo(0).IsName("Question") && 
-               sellerAnimator.GetCurrentAnimatorStateInfo(0).normalizedTime < 1.0f)
-        {
-            yield return null;
-        }
-
-        Debug.Log("Question animation finished. Enabling Bag Button.");
+    // Assign this method to your Next Button's OnClick event in the Inspector
+    public void OnNextButtonClicked()
+    {
+        Debug.Log("Next button clicked. Enabling Bag Button.");
 
         if (bagButtonAnimator != null)
         {
@@ -71,6 +69,30 @@ public class ProbabilityAnimation : MonoBehaviour
         else
         {
             Debug.LogError("Bag Button Animator is not assigned in the Inspector!");
+        }
+    }
+
+    // Assign this method to your Random Pick Button's OnClick event
+    public void OnRandomPickButtonClicked()
+    {
+        Debug.Log("Random Pick button clicked. Enabling Answer Panel and playing Answer animation on Buyer.");
+
+        if (answerPanel != null)
+        {
+            answerPanel.SetActive(true);
+        }
+        else
+        {
+            Debug.LogError("Answer Panel is not assigned in the Inspector!");
+        }
+
+        if (buyerAnimator != null)
+        {
+            buyerAnimator.Play("Answer");
+        }
+        else
+        {
+            Debug.LogError("Buyer Animator is not assigned in the Inspector!");
         }
     }
 }

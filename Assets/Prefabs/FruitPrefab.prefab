@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4646393741256949352}
+  - component: {fileID: 1304501948056952721}
   m_Layer: 5
   m_Name: FruitPrefab
   m_TagString: Untagged
@@ -36,6 +37,23 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1304501948056952721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1581170199912559407}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0e37f96ab8eac641a20b165d1c57a33, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ProbabilityFruit
+  fruitImage: {fileID: 9174743188332840201}
+  countText: {fileID: 4970792770559755911}
+  fruitSprite: {fileID: 0}
+  minCount: 1
+  maxCount: 10
 --- !u!1 &7433980072616048025
 GameObject:
   m_ObjectHideFlags: 0
