@@ -95,4 +95,30 @@ public class ProbabilityAnimation : MonoBehaviour
             Debug.LogError("Buyer Animator is not assigned in the Inspector!");
         }
     }
+
+    [Header("Picked Fruit")]
+    [SerializeField] private GameObject pickedFruitImageObject;
+    [SerializeField] private UnityEngine.UI.Image pickedFruitImage;
+    [SerializeField] private Animator pickedFruitAnimator;
+
+    public void PlayPickedFruitAnimation(Sprite fruitSprite)
+    {
+        // 1. Set the sprite
+        if (pickedFruitImage != null)
+        {
+            pickedFruitImage.sprite = fruitSprite;
+        }
+
+        // 2. Enable the game object
+        if (pickedFruitImageObject != null)
+        {
+            pickedFruitImageObject.SetActive(true);
+        }
+
+        // 3. Play the animation
+        if (pickedFruitAnimator != null)
+        {
+            pickedFruitAnimator.Play("PickedFruitAnimation", 0, 0f); 
+        }
+    }
 }

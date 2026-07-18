@@ -108,4 +108,58 @@ public class ProbabilityGameplay : MonoBehaviour
             Debug.Log("Wrong Answer. Try again!");
         }
     }
+
+    // Assign this method to the Random Pick Button's OnClick event
+    public void OnRandomPickButtonClicked()
+    {
+        if (allFruits == null || allFruits.Length == 0) return;
+
+        // 1. Calculate the total number of fruits currently in the bag
+        int totalFruits = 0;
+        foreach (var fruit in allFruits)
+        {
+            totalFruits += fruit.GetFruitCount();
+        }
+
+        if (totalFruits == 0)
+        {
+            Debug.LogWarning("The bag is empty! No more fruits to pick.");
+            return;
+        }
+
+        // 2. Pick a random number between 0 and totalFruits - 1
+        int randomPick = Random.Range(0, totalFruits);
+        int currentSum = 0;
+        ProbabilityFruit pickedFruit = null;
+
+        // 3. Find which fruit corresponds to the random pick based on their counts (weights)
+        foreach (var fruit in allFruits)
+        {
+            currentSum += fruit.GetFruitCount();
+            if (randomPick < currentSum)
+            {
+                pickedFruit = fruit;
+                break;
+            }
+        }
+
+        if (pickedFruit != null)
+        {
+            Debug.Log("Randomly picked: " + pickedFruit.name);
+
+            // 4. Decrement the picked fruit's count
+            pickedFruit.DecrementCount();
+
+            // 5. Trigger the animation on the PickedFruitImage
+            ProbabilityAnimation animationScript = FindFirstObjectByType<ProbabilityAnimation>();
+            if (animationScript != null)
+            {
+                animationScript.PlayPickedFruitAnimation(pickedFruit.GetFruitSprite());
+            }
+            else
+            {
+                Debug.LogError("Could not find ProbabilityAnimation script in the scene!");
+            }
+        }
+    }
 }

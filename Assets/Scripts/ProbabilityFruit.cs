@@ -49,4 +49,16 @@ public class ProbabilityFruit : MonoBehaviour
     {
         return currentCount;
     }
+
+    public void DecrementCount()
+    {
+        if (currentCount > 0)
+        {
+            currentCount--;
+            if (countText != null)
+            {
+                countText.text = currentCount.ToString();
+            }
+        }
+    }
 }
