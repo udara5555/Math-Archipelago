@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 1205385219963615994}
   - component: {fileID: 30316418536592861}
   - component: {fileID: 9141833015226588602}
+  - component: {fileID: -6604690487971565141}
   m_Layer: 5
   m_Name: AnswerButtonPrefab
   m_TagString: Untagged
@@ -120,3 +121,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &-6604690487971565141
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5741070636764263254}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e197f06fc3c67b742bb7eef7f62fe6d0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ProbabilityAnswer

@@ -13,6 +13,8 @@ public class ProbabilityFruit : MonoBehaviour
     [SerializeField] private int minCount = 1;
     [SerializeField] private int maxCount = 10; // Included in the random range
 
+    private int currentCount;
+
     void Start()
     {
         // Set the sprite
@@ -29,12 +31,22 @@ public class ProbabilityFruit : MonoBehaviour
         if (countText != null)
         {
             // Random.Range for integers is exclusive for the max, so we add 1
-            int randomCount = Random.Range(minCount, maxCount + 1);
-            countText.text = randomCount.ToString();
+            currentCount = Random.Range(minCount, maxCount + 1);
+            countText.text = currentCount.ToString();
         }
         else
         {
             Debug.LogWarning("Count Text (TMP) is not assigned on " + gameObject.name);
         }
+    }
+
+    public Sprite GetFruitSprite()
+    {
+        return fruitSprite;
+    }
+
+    public int GetFruitCount()
+    {
+        return currentCount;
     }
 }

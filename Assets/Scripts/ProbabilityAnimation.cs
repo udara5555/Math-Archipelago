@@ -72,10 +72,10 @@ public class ProbabilityAnimation : MonoBehaviour
         }
     }
 
-    // Assign this method to your Random Pick Button's OnClick event
-    public void OnRandomPickButtonClicked()
+    // Assign this method to your Bag Button's OnClick event
+    public void OnBagButtonClicked()
     {
-        Debug.Log("Random Pick button clicked. Enabling Answer Panel and playing Answer animation on Buyer.");
+        Debug.Log("Bag button clicked (Animation script). Enabling Answer Panel and playing Answer animation on Buyer.");
 
         if (answerPanel != null)
         {

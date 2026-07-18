@@ -202,6 +202,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 231576870}
     m_Modifications:
+    - target: {fileID: -6604690487971565141, guid: 43705387abd179f4e97d5114fbe0c178, type: 3}
+      propertyPath: targetFruit
+      value: 
+      objectReference: {fileID: 345024436}
     - target: {fileID: 5741070636764263254, guid: 43705387abd179f4e97d5114fbe0c178, type: 3}
       propertyPath: m_Name
       value: AnswerButtonPrefab (2)
@@ -601,6 +605,17 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 4646393741256949352, guid: 5b7375086d239d54b942a78f87ab5c39, type: 3}
   m_PrefabInstance: {fileID: 345024434}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &345024436 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1304501948056952721, guid: 5b7375086d239d54b942a78f87ab5c39, type: 3}
+  m_PrefabInstance: {fileID: 345024434}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0e37f96ab8eac641a20b165d1c57a33, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ProbabilityFruit
 --- !u!1001 &353570300
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -609,6 +624,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 231576870}
     m_Modifications:
+    - target: {fileID: -6604690487971565141, guid: 43705387abd179f4e97d5114fbe0c178, type: 3}
+      propertyPath: targetFruit
+      value: 
+      objectReference: {fileID: 1578911800}
     - target: {fileID: 5741070636764263254, guid: 43705387abd179f4e97d5114fbe0c178, type: 3}
       propertyPath: m_Name
       value: AnswerButtonPrefab (1)
@@ -970,6 +989,18 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2147152479}
         m_TargetAssemblyTypeName: ProbabilityGameplay, Assembly-CSharp
+        m_MethodName: OnBagButtonClicked
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 2022020883}
+        m_TargetAssemblyTypeName: ProbabilityAnimation, Assembly-CSharp
         m_MethodName: OnBagButtonClicked
         m_Mode: 1
         m_Arguments:
@@ -1452,6 +1483,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 231576870}
     m_Modifications:
+    - target: {fileID: -6604690487971565141, guid: 43705387abd179f4e97d5114fbe0c178, type: 3}
+      propertyPath: targetFruit
+      value: 
+      objectReference: {fileID: 823597658}
     - target: {fileID: 5741070636764263254, guid: 43705387abd179f4e97d5114fbe0c178, type: 3}
       propertyPath: m_Name
       value: AnswerButtonPrefab (3)
@@ -1546,6 +1581,17 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 5816860768337931076, guid: 43705387abd179f4e97d5114fbe0c178, type: 3}
   m_PrefabInstance: {fileID: 790180626}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &823597658 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1304501948056952721, guid: 5b7375086d239d54b942a78f87ab5c39, type: 3}
+  m_PrefabInstance: {fileID: 600644218}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0e37f96ab8eac641a20b165d1c57a33, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ProbabilityFruit
 --- !u!1 &1159933892
 GameObject:
   m_ObjectHideFlags: 0
@@ -1890,23 +1936,11 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
-  m_Interactable: 1
+  m_Interactable: 0
   m_TargetGraphic: {fileID: 1411366853}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 2022020883}
-        m_TargetAssemblyTypeName: ProbabilityAnimation, Assembly-CSharp
-        m_MethodName: OnRandomPickButtonClicked
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &1411366853
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2024,6 +2058,17 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1578911800 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1304501948056952721, guid: 5b7375086d239d54b942a78f87ab5c39, type: 3}
+  m_PrefabInstance: {fileID: 1408587860}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0e37f96ab8eac641a20b165d1c57a33, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ProbabilityFruit
 --- !u!1 &1690183697
 GameObject:
   m_ObjectHideFlags: 0
@@ -2315,6 +2360,18 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2022020883}
         m_TargetAssemblyTypeName: ProbabilityAnimation, Assembly-CSharp
+        m_MethodName: OnNextButtonClicked
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 2147152479}
+        m_TargetAssemblyTypeName: ProbabilityGameplay, Assembly-CSharp
         m_MethodName: OnNextButtonClicked
         m_Mode: 1
         m_Arguments:
@@ -2942,6 +2999,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ProbabilityGameplay
   questionText: {fileID: 1806349871}
   fruitPanel: {fileID: 1159933892}
+  allFruits:
+  - {fileID: 9064710445021538014}
+  - {fileID: 1578911800}
+  - {fileID: 345024436}
+  - {fileID: 823597658}
+  randomPickButton: {fileID: 1411366852}
 --- !u!1001 &1872065828370028607
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2950,6 +3013,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 231576870}
     m_Modifications:
+    - target: {fileID: -6604690487971565141, guid: 43705387abd179f4e97d5114fbe0c178, type: 3}
+      propertyPath: targetFruit
+      value: 
+      objectReference: {fileID: 9064710445021538014}
     - target: {fileID: 5741070636764263254, guid: 43705387abd179f4e97d5114fbe0c178, type: 3}
       propertyPath: m_Name
       value: AnswerButtonPrefab
@@ -3166,6 +3233,17 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 4646393741256949352, guid: 5b7375086d239d54b942a78f87ab5c39, type: 3}
   m_PrefabInstance: {fileID: 9064710445021538012}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &9064710445021538014 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1304501948056952721, guid: 5b7375086d239d54b942a78f87ab5c39, type: 3}
+  m_PrefabInstance: {fileID: 9064710445021538012}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0e37f96ab8eac641a20b165d1c57a33, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ProbabilityFruit
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
