@@ -43,4 +43,13 @@ public class ProbabilityAnswer : MonoBehaviour
             Debug.LogError("Could not find ProbabilityGameplay in the scene!");
         }
     }
+
+    public void SetInteractable(bool state)
+    {
+        Button btn = GetComponent<Button>();
+        if (btn != null)
+        {
+            btn.interactable = state;
+        }
+    }
 }

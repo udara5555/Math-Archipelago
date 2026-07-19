@@ -8,7 +8,15 @@ public class ProbabilityGameplay : MonoBehaviour
 
     [SerializeField] private ProbabilityFruit[] allFruits;
     [SerializeField] private UnityEngine.UI.Button randomPickButton;
+    [SerializeField] private UnityEngine.UI.Button nextButton;
+    [SerializeField] private ProbabilityAnswer[] allAnswers;
     
+    [Header("Health")]
+    [SerializeField] private UnityEngine.UI.Image healthImage;
+    [Tooltip("Assign sprites for each wrong answer stage. The last one is game over.")]
+    [SerializeField] private Sprite[] healthStages = new Sprite[4];
+    
+    private int wrongAnswerCount = 0;
     private int currentQuestionType = 0; // 0 = Most, 1 = Least
 
     void Start()
@@ -47,6 +55,21 @@ public class ProbabilityGameplay : MonoBehaviour
     // Assign this method to the Next Button's OnClick event
     public void OnNextButtonClicked()
     {
+        // Disable next button to prevent spamming
+        if (nextButton != null)
+        {
+            nextButton.interactable = false;
+        }
+
+        // Enable all answer buttons for the new round
+        if (allAnswers != null)
+        {
+            foreach (var answer in allAnswers)
+            {
+                if (answer != null) answer.SetInteractable(true);
+            }
+        }
+
         if (questionText != null)
         {
             // Pick a random question type (0 = Most, 1 = Least)
@@ -102,10 +125,46 @@ public class ProbabilityGameplay : MonoBehaviour
             {
                 randomPickButton.interactable = true;
             }
+
+            // Disable answer buttons so they can't change their mind
+            if (allAnswers != null)
+            {
+                foreach (var answer in allAnswers)
+                {
+                    if (answer != null) answer.SetInteractable(false);
+                }
+            }
         }
         else
         {
-            Debug.Log("Wrong Answer. Try again!");
+            Debug.Log("Wrong Answer.");
+            wrongAnswerCount++;
+
+            if (healthImage != null && healthStages != null && healthStages.Length > 0)
+            {
+                if (wrongAnswerCount <= healthStages.Length && healthStages[wrongAnswerCount - 1] != null)
+                {
+                    healthImage.sprite = healthStages[wrongAnswerCount - 1];
+                }
+            }
+
+            if (healthStages != null && wrongAnswerCount >= healthStages.Length)
+            {
+                Debug.Log("Game Over! No health left.");
+                if (questionText != null)
+                {
+                    questionText.text = "Game Over! You made too many mistakes.";
+                }
+
+                // Disable all answer buttons
+                if (allAnswers != null)
+                {
+                    foreach (var answer in allAnswers)
+                    {
+                        if (answer != null) answer.SetInteractable(false);
+                    }
+                }
+            }
         }
     }
 
@@ -125,6 +184,12 @@ public class ProbabilityGameplay : MonoBehaviour
         {
             Debug.LogWarning("The bag is empty! No more fruits to pick.");
             return;
+        }
+
+        // Disable random pick button since we are picking now
+        if (randomPickButton != null)
+        {
+            randomPickButton.interactable = false;
         }
 
         // 2. Pick a random number between 0 and totalFruits - 1
@@ -149,6 +214,25 @@ public class ProbabilityGameplay : MonoBehaviour
 
             // 4. Decrement the picked fruit's count
             pickedFruit.DecrementCount();
+
+            // Check Game Over condition
+            if (totalFruits - 1 <= 0)
+            {
+                Debug.Log("Game Over! All fruits are picked.");
+                if (questionText != null)
+                {
+                    questionText.text = "Congratulations! You collected all the fruits!";
+                }
+                if (nextButton != null) nextButton.interactable = false; // Ensure it stays disabled
+            }
+            else
+            {
+                // Enable next button for the next round
+                if (nextButton != null)
+                {
+                    nextButton.interactable = true;
+                }
+            }
 
             // 5. Trigger the animation on the PickedFruitImage
             ProbabilityAnimation animationScript = FindFirstObjectByType<ProbabilityAnimation>();

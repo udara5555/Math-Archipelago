@@ -23,6 +23,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LogicalThinking.unity
     guid: 7aa16ce3bb4a84e49981e874efb146a7
+  - enabled: 1
+    path: Assets/Scenes/Probabilities.unity
+    guid: 7070ae2944e25864f9bcf691cd7fa951
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

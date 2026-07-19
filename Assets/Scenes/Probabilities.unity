@@ -405,7 +405,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &318726283
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1609,6 +1609,17 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 5816860768337931076, guid: 43705387abd179f4e97d5114fbe0c178, type: 3}
   m_PrefabInstance: {fileID: 790180626}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &790180628 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: -6604690487971565141, guid: 43705387abd179f4e97d5114fbe0c178, type: 3}
+  m_PrefabInstance: {fileID: 790180626}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e197f06fc3c67b742bb7eef7f62fe6d0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ProbabilityAnswer
 --- !u!114 &823597658 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 1304501948056952721, guid: 5b7375086d239d54b942a78f87ab5c39, type: 3}
@@ -1620,6 +1631,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0e37f96ab8eac641a20b165d1c57a33, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ProbabilityFruit
+--- !u!114 &838197415 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: -6604690487971565141, guid: 43705387abd179f4e97d5114fbe0c178, type: 3}
+  m_PrefabInstance: {fileID: 353570300}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e197f06fc3c67b742bb7eef7f62fe6d0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ProbabilityAnswer
 --- !u!1 &1159933892
 GameObject:
   m_ObjectHideFlags: 0
@@ -1701,6 +1723,17 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1159933892}
   m_CullTransparentMesh: 1
+--- !u!114 &1241671755 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: -6604690487971565141, guid: 43705387abd179f4e97d5114fbe0c178, type: 3}
+  m_PrefabInstance: {fileID: 109630482}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e197f06fc3c67b742bb7eef7f62fe6d0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ProbabilityAnswer
 --- !u!1 &1405275768
 GameObject:
   m_ObjectHideFlags: 0
@@ -3124,6 +3157,19 @@ MonoBehaviour:
   - {fileID: 345024436}
   - {fileID: 823597658}
   randomPickButton: {fileID: 1411366852}
+  nextButton: {fileID: 1795773074}
+  allAnswers:
+  - {fileID: 1872065828370028609}
+  - {fileID: 838197415}
+  - {fileID: 1241671755}
+  - {fileID: 790180628}
+  healthImage: {fileID: 1692850864}
+  healthStages:
+  - {fileID: -9089365156543738993, guid: 88e26b9c91bc72b4d90c6e59c04625d8, type: 3}
+  - {fileID: 5192347163212144093, guid: 88e26b9c91bc72b4d90c6e59c04625d8, type: 3}
+  - {fileID: -4254891169522011763, guid: 88e26b9c91bc72b4d90c6e59c04625d8, type: 3}
+  - {fileID: 8944352477240310334, guid: 88e26b9c91bc72b4d90c6e59c04625d8, type: 3}
+  - {fileID: 1112393213415347979, guid: 88e26b9c91bc72b4d90c6e59c04625d8, type: 3}
 --- !u!1001 &1872065828370028607
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3246,6 +3292,17 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 5816860768337931076, guid: 43705387abd179f4e97d5114fbe0c178, type: 3}
   m_PrefabInstance: {fileID: 1872065828370028607}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1872065828370028609 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: -6604690487971565141, guid: 43705387abd179f4e97d5114fbe0c178, type: 3}
+  m_PrefabInstance: {fileID: 1872065828370028607}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e197f06fc3c67b742bb7eef7f62fe6d0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ProbabilityAnswer
 --- !u!1001 &9064710445021538012
 PrefabInstance:
   m_ObjectHideFlags: 0
