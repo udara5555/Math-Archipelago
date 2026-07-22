@@ -1,0 +1,530 @@
+fileFormatVersion: 2
+guid: 4161ec99ee984054dbb6705adf5f6d16
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8807439161321438752
+    second: Mobile - Dungeon Maker - Monster - Fairy_0
+  - first:
+      213: 8621399908412520054
+    second: Mobile - Dungeon Maker - Monster - Fairy_1
+  - first:
+      213: -7549295792676156040
+    second: Mobile - Dungeon Maker - Monster - Fairy_2
+  - first:
+      213: -8714112488455174251
+    second: Mobile - Dungeon Maker - Monster - Fairy_3
+  - first:
+      213: -4643702278537430947
+    second: Mobile - Dungeon Maker - Monster - Fairy_4
+  - first:
+      213: 7896064919409716907
+    second: Mobile - Dungeon Maker - Monster - Fairy_5
+  - first:
+      213: 7624711231517293786
+    second: Mobile - Dungeon Maker - Monster - Fairy_6
+  - first:
+      213: -1211419212194187457
+    second: Mobile - Dungeon Maker - Monster - Fairy_7
+  - first:
+      213: -5881859504847843490
+    second: Mobile - Dungeon Maker - Monster - Fairy_8
+  - first:
+      213: -3663389035974449218
+    second: Mobile - Dungeon Maker - Monster - Fairy_9
+  - first:
+      213: -403048820842565311
+    second: Mobile - Dungeon Maker - Monster - Fairy_10
+  - first:
+      213: 139351643694411451
+    second: Mobile - Dungeon Maker - Monster - Fairy_11
+  - first:
+      213: -761828273096848339
+    second: Mobile - Dungeon Maker - Monster - Fairy_12
+  - first:
+      213: 3026705426673785106
+    second: Mobile - Dungeon Maker - Monster - Fairy_13
+  - first:
+      213: -4738627667438114633
+    second: Mobile - Dungeon Maker - Monster - Fairy_14
+  - first:
+      213: 5593254030644010942
+    second: Mobile - Dungeon Maker - Monster - Fairy_15
+  - first:
+      213: 1146997300970821922
+    second: Mobile - Dungeon Maker - Monster - Fairy_16
+  - first:
+      213: 5176449545313203500
+    second: Mobile - Dungeon Maker - Monster - Fairy_17
+  - first:
+      213: -7070674739022479308
+    second: Mobile - Dungeon Maker - Monster - Fairy_18
+  - first:
+      213: 5382707449106454638
+    second: Mobile - Dungeon Maker - Monster - Fairy_19
+  - first:
+      213: -967382599758527589
+    second: Mobile - Dungeon Maker - Monster - Fairy_20
+  - first:
+      213: 8586855732734611911
+    second: Mobile - Dungeon Maker - Monster - Fairy_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Dungeon Maker - Monster - Fairy_0
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 279
+        width: 101
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e142902fb0b5c580800000000000000
+      internalID: -8807439161321438752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dungeon Maker - Monster - Fairy_2
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 260
+        width: 105
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dcf2579738b3790800000000000000
+      internalID: -7549295792676156040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dungeon Maker - Monster - Fairy_3
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 276
+        width: 112
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59785d07cd0411780800000000000000
+      internalID: -8714112488455174251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dungeon Maker - Monster - Fairy_4
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 273
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58ba1d81614e8fb0800000000000000
+      internalID: -4643702278537430947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dungeon Maker - Monster - Fairy_5
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 264
+        width: 123
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baee6d48535749d60800000000000000
+      internalID: 7896064919409716907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dungeon Maker - Monster - Fairy_8
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 145
+        width: 91
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f0aca91ff6f5ea0800000000000000
+      internalID: -5881859504847843490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dungeon Maker - Monster - Fairy_10
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 133
+        width: 101
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141f98e9b35186af0800000000000000
+      internalID: -403048820842565311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dungeon Maker - Monster - Fairy_11
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 137
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbea545e4931fe100800000000000000
+      internalID: 139351643694411451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dungeon Maker - Monster - Fairy_12
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 145
+        width: 112
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c8632d8317d65f0800000000000000
+      internalID: -761828273096848339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dungeon Maker - Monster - Fairy_14
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 142
+        width: 107
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b863872e330d3eb0800000000000000
+      internalID: -4738627667438114633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dungeon Maker - Monster - Fairy_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 15
+        width: 91
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22992bad7f3faef00800000000000000
+      internalID: 1146997300970821922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dungeon Maker - Monster - Fairy_17
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 12
+        width: 99
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25302a7f6176d740800000000000000
+      internalID: 5176449545313203500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dungeon Maker - Monster - Fairy_18
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 13
+        width: 112
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430cc3279caefdd90800000000000000
+      internalID: -7070674739022479308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bf14d7a8cd9c0d04885a30070141c6c3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mobile - Dungeon Maker - Monster - Fairy_0: -8807439161321438752
+      Mobile - Dungeon Maker - Monster - Fairy_1: 8621399908412520054
+      Mobile - Dungeon Maker - Monster - Fairy_10: -403048820842565311
+      Mobile - Dungeon Maker - Monster - Fairy_11: 139351643694411451
+      Mobile - Dungeon Maker - Monster - Fairy_12: -761828273096848339
+      Mobile - Dungeon Maker - Monster - Fairy_13: 3026705426673785106
+      Mobile - Dungeon Maker - Monster - Fairy_14: -4738627667438114633
+      Mobile - Dungeon Maker - Monster - Fairy_15: 5593254030644010942
+      Mobile - Dungeon Maker - Monster - Fairy_16: 1146997300970821922
+      Mobile - Dungeon Maker - Monster - Fairy_17: 5176449545313203500
+      Mobile - Dungeon Maker - Monster - Fairy_18: -7070674739022479308
+      Mobile - Dungeon Maker - Monster - Fairy_19: 5382707449106454638
+      Mobile - Dungeon Maker - Monster - Fairy_2: -7549295792676156040
+      Mobile - Dungeon Maker - Monster - Fairy_20: -967382599758527589
+      Mobile - Dungeon Maker - Monster - Fairy_21: 8586855732734611911
+      Mobile - Dungeon Maker - Monster - Fairy_3: -8714112488455174251
+      Mobile - Dungeon Maker - Monster - Fairy_4: -4643702278537430947
+      Mobile - Dungeon Maker - Monster - Fairy_5: 7896064919409716907
+      Mobile - Dungeon Maker - Monster - Fairy_6: 7624711231517293786
+      Mobile - Dungeon Maker - Monster - Fairy_7: -1211419212194187457
+      Mobile - Dungeon Maker - Monster - Fairy_8: -5881859504847843490
+      Mobile - Dungeon Maker - Monster - Fairy_9: -3663389035974449218
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
