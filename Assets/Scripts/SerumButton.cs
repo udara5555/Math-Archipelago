@@ -57,7 +57,7 @@ public class SerumButton : MonoBehaviour
     }
 
     /// <summary>
-    /// Called when player clicks this serum button. Enables the Answers GameObject.
+    /// Called when player clicks this serum button. Enables the Answers GameObject if correct color is selected.
     /// </summary>
     public void OnSerumButtonClicked()
     {
@@ -66,17 +66,37 @@ public class SerumButton : MonoBehaviour
             fractionsGameplay = FindFirstObjectByType<FractionsGameplay>();
         }
 
-        bool shouldEnable = true;
+        bool isCorrectColor = true;
 
         if (checkMatchingTargetColor && fractionsGameplay != null)
         {
-            // Enable when clicked serum color matches the wizard's target color
-            shouldEnable = (serumColor == fractionsGameplay.targetColor);
+            isCorrectColor = (serumColor == fractionsGameplay.targetColor);
         }
 
-        if (shouldEnable && answersGameObject != null)
+        if (isCorrectColor)
         {
-            answersGameObject.SetActive(true);
+            // Disable interactable state on all serum buttons once correct color serum button is picked
+            if (fractionsGameplay != null)
+            {
+                fractionsGameplay.SetSerumButtonsInteractable(false);
+            }
+
+            if (answersGameObject != null)
+            {
+                answersGameObject.SetActive(true);
+            }
+
+            if (fractionsGameplay != null)
+            {
+                fractionsGameplay.GenerateAnswers();
+            }
+        }
+        else
+        {
+            if (fractionsGameplay != null && fractionsGameplay.dialogText != null)
+            {
+                fractionsGameplay.dialogText.text = $"Wrong serum! Look for the {fractionsGameplay.targetColor} serum.";
+            }
         }
     }
 }

@@ -117,7 +117,7 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
-  m_Interactable: 1
+  m_Interactable: 0
   m_TargetGraphic: {fileID: 8278230815951343619}
   m_OnClick:
     m_PersistentCalls:
@@ -156,3 +156,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2011731dc9892cf40aa85c4c0dda2ab8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SerumButton
+  serumColor: 0
+  answersGameObject: {fileID: 0}
+  checkMatchingTargetColor: 1
